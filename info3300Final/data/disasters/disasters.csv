@@ -1,0 +1,3529 @@
+Date,State,Incident Description
+1956,California,Fire
+1956,Louisiana,Tropical Storm
+1956,Nevada,Severe Storm/Flooding
+1956,Pennsylvania,Other
+1956,Oregon,Severe Storm/Flooding
+1956,Colorado,Severe Storm/Flooding
+1956,Pennsylvania,Severe Storm/Flooding
+1956,Ohio,Other
+1956,North Carolina,Severe Storm/Flooding
+1956,Idaho,Severe Storm/Flooding
+1956,Oklahoma,Severe Storm/Flooding
+1956,Michigan,Severe Storm/Flooding
+1956,New York,Severe Storm/Flooding
+1956,Pennsylvania,Severe Storm/Flooding
+1956,Washington,Severe Storm/Flooding
+1957,Kansas,Severe Storm/Flooding
+1957,Minnesota,Severe Storm/Flooding
+1957,North Dakota,Severe Storm/Flooding
+1957,Illinois,Severe Storm/Flooding
+1957,Arkansas,Severe Storm/Flooding
+1957,Idaho,Severe Storm/Flooding
+1957,Missouri,Severe Storm/Flooding
+1957,Oklahoma,Severe Storm/Flooding
+1957,Louisiana,Tropical Storm
+1957,Texas,Tropical Storm
+1957,Washington,Severe Storm/Flooding
+1957,Oregon,Severe Storm/Flooding
+1957,Virginia,Severe Storm/Flooding
+1957,West Virginia,Severe Storm/Flooding
+1957,Kentucky,Severe Storm/Flooding
+1958,Kansas,Severe Storm/Flooding
+1958,North Carolina,Tropical Storm
+1958,Iowa,Severe Storm/Flooding
+1958,Texas,Severe Storm/Flooding
+1958,Louisiana,Severe Storm/Flooding
+1958,Arkansas,Severe Storm/Flooding
+1958,California,Severe Storm/Flooding
+1959,Oklahoma,Severe Storm/Flooding
+1959,Oklahoma,Severe Storm/Flooding
+1959,Texas,Severe Storm/Flooding
+1959,Indiana,Severe Storm/Flooding
+1959,Pennsylvania,Severe Storm/Flooding
+1959,Ohio,Severe Storm/Flooding
+1960,North Carolina,Tropical Storm
+1960,Florida,Tropical Storm
+1960,Idaho,Fire
+1960,Oklahoma,Severe Storm/Flooding
+1960,Texas,Severe Storm/Flooding
+1960,Arkansas,Severe Storm/Flooding
+1960,Missouri,Severe Storm/Flooding
+1960,South Dakota,Severe Storm/Flooding
+1960,Nebraska,Severe Storm/Flooding
+1960,Florida,Other
+1961,California,Fire
+1961,Texas,Tropical Storm
+1961,West Virginia,Severe Storm/Flooding
+1961,Idaho,Severe Storm/Flooding
+1961,Illinois,Severe Storm/Flooding
+1961,Missouri,Severe Storm/Flooding
+1961,Indiana,Severe Storm/Flooding
+1961,Arkansas,Severe Storm/Flooding
+1961,Iowa,Severe Storm/Flooding
+1961,Georgia,Severe Storm/Flooding
+1961,Alabama,Severe Storm/Flooding
+1961,Mississippi,Severe Storm/Flooding
+1962,Florida,Other
+1962,Louisiana,Other
+1962,California,Severe Storm/Flooding
+1962,Washington,Severe Storm/Flooding
+1962,Oregon,Severe Storm/Flooding
+1962,Mississippi,Other
+1962,Nebraska,Severe Storm/Flooding
+1962,Iowa,Severe Storm/Flooding
+1962,South Dakota,Severe Storm/Flooding
+1962,Nebraska,Severe Storm/Flooding
+1962,New York,Severe Storm/Flooding
+1962,North Carolina,Severe Storm/Flooding
+1962,Kentucky,Severe Storm/Flooding
+1962,Maryland,Severe Storm/Flooding
+1962,Virginia,Severe Storm/Flooding
+1962,New Jersey,Severe Storm/Flooding
+1962,West Virginia,Severe Storm/Flooding
+1962,Delaware,Severe Storm/Flooding
+1962,California,Severe Storm/Flooding
+1962,Nevada,Severe Storm/Flooding
+1962,Idaho,Severe Storm/Flooding
+1963,California,Severe Storm/Flooding
+1963,Vermont,Winter Storm
+1963,Texas,Tropical Storm
+1963,New York,Severe Storm/Flooding
+1963,Arkansas,Severe Storm/Flooding
+1963,Nebraska,Severe Storm/Flooding
+1963,Wyoming,Severe Storm/Flooding
+1963,Tennessee,Severe Storm/Flooding
+1963,Georgia,Severe Storm/Flooding
+1963,Virginia,Severe Storm/Flooding
+1963,West Virginia,Severe Storm/Flooding
+1963,Kentucky,Severe Storm/Flooding
+1963,Washington,Severe Storm/Flooding
+1963,California,Severe Storm/Flooding
+1963,Oregon,Severe Storm/Flooding
+1963,Idaho,Severe Storm/Flooding
+1963,Nevada,Severe Storm/Flooding
+1964,Idaho,Severe Storm/Flooding
+1964,Washington,Severe Storm/Flooding
+1964,California,Severe Storm/Flooding
+1964,Oregon,Severe Storm/Flooding
+1964,Montana,Winter Storm
+1964,Georgia,Severe Storm/Flooding
+1964,North Carolina,Severe Storm/Flooding
+1964,Louisiana,Tropical Storm
+1964,Florida,Tropical Storm
+1964,Georgia,Tropical Storm
+1964,Florida,Tropical Storm
+1964,Nebraska,Severe Storm/Flooding
+1964,Missouri,Severe Storm/Flooding
+1964,Montana,Severe Storm/Flooding
+1964,California,Other
+1964,Ohio,Severe Storm/Flooding
+1964,West Virginia,Severe Storm/Flooding
+1964,Arkansas,Severe Storm/Flooding
+1964,Indiana,Severe Storm/Flooding
+1964,Vermont,Severe Storm/Flooding
+1964,Kentucky,Severe Storm/Flooding
+1965,California,Severe Storm/Flooding
+1965,Mississippi,Tropical Storm
+1965,Florida,Tropical Storm
+1965,Louisiana,Tropical Storm
+1965,Delaware,Drought
+1965,Pennsylvania,Drought
+1965,New York,Drought
+1965,New Jersey,Drought
+1965,Missouri,Severe Storm/Flooding
+1965,New Mexico,Severe Storm/Flooding
+1965,Kansas,Severe Storm/Flooding
+1965,Colorado,Severe Storm/Flooding
+1965,Texas,Severe Storm/Flooding
+1965,Missouri,Severe Storm/Flooding
+1965,South Dakota,Severe Storm/Flooding
+1965,Washington,Other
+1965,North Dakota,Severe Storm/Flooding
+1965,Illinois,Severe Storm/Flooding
+1965,Iowa,Severe Storm/Flooding
+1965,Wisconsin,Severe Storm/Flooding
+1965,Ohio,Severe Storm/Flooding
+1965,Michigan,Severe Storm/Flooding
+1965,Indiana,Severe Storm/Flooding
+1965,Minnesota,Severe Storm/Flooding
+1965,Nevada,Severe Storm/Flooding
+1966,Texas,Severe Storm/Flooding
+1966,Nebraska,Severe Storm/Flooding
+1966,North Dakota,Severe Storm/Flooding
+1966,Kansas,Severe Storm/Flooding
+1966,Texas,Severe Storm/Flooding
+1966,Arizona,Severe Storm/Flooding
+1966,North Dakota,Severe Storm/Flooding
+1966,Minnesota,Severe Storm/Flooding
+1966,Georgia,Severe Storm/Flooding
+1966,California,Severe Storm/Flooding
+1967,New York,Severe Storm/Flooding
+1967,Texas,Tropical Storm
+1967,Idaho,Fire
+1967,Kansas,Severe Storm/Flooding
+1967,Nebraska,Severe Storm/Flooding
+1967,Illinois,Severe Storm/Flooding
+1967,Kentucky,Severe Storm/Flooding
+1967,West Virginia,Severe Storm/Flooding
+1967,California,Severe Storm/Flooding
+1968,Florida,Tropical Storm
+1968,Minnesota,Severe Storm/Flooding
+1968,Minnesota,Severe Storm/Flooding
+1968,Iowa,Severe Storm/Flooding
+1968,Indiana,Severe Storm/Flooding
+1968,Texas,Severe Storm/Flooding
+1968,New Jersey,Severe Storm/Flooding
+1968,Texas,Severe Storm/Flooding
+1968,Ohio,Severe Storm/Flooding
+1968,Illinois,Severe Storm/Flooding
+1968,Arkansas,Severe Storm/Flooding
+1968,Iowa,Severe Storm/Flooding
+1968,Oklahoma,Severe Storm/Flooding
+1968,Kentucky,Severe Storm/Flooding
+1968,Ohio,Severe Storm/Flooding
+1968,Arkansas,Severe Storm/Flooding
+1968,North Carolina,Winter Storm
+1969,Alabama,Tropical Storm
+1969,West Virginia,Severe Storm/Flooding
+1969,West Virginia,Severe Storm/Flooding
+1969,Vermont,Severe Storm/Flooding
+1969,Illinois,Severe Storm/Flooding
+1969,New York,Severe Storm/Flooding
+1969,Virginia,Severe Storm/Flooding
+1969,Pennsylvania,Severe Storm/Flooding
+1969,Louisiana,Tropical Storm
+1969,Mississippi,Tropical Storm
+1969,California,Severe Storm/Flooding
+1969,Iowa,Severe Storm/Flooding
+1969,Minnesota,Severe Storm/Flooding
+1969,Kentucky,Severe Storm/Flooding
+1969,Kansas,Severe Storm/Flooding
+1969,Ohio,Severe Storm/Flooding
+1969,Wisconsin,Severe Storm/Flooding
+1969,Tennessee,Severe Storm/Flooding
+1969,Illinois,Severe Storm/Flooding
+1969,Colorado,Severe Storm/Flooding
+1969,Wisconsin,Severe Storm/Flooding
+1969,Iowa,Severe Storm/Flooding
+1969,Nevada,Severe Storm/Flooding
+1969,South Dakota,Severe Storm/Flooding
+1969,North Dakota,Severe Storm/Flooding
+1969,Minnesota,Severe Storm/Flooding
+1969,Arkansas,Severe Storm/Flooding
+1969,California,Severe Storm/Flooding
+1970,Oklahoma,Severe Storm/Flooding
+1970,California,Fire
+1970,Arizona,Severe Storm/Flooding
+1970,Colorado,Severe Storm/Flooding
+1970,Texas,Tropical Storm
+1970,Minnesota,Severe Storm/Flooding
+1970,New York,Severe Storm/Flooding
+1970,Washington,Fire
+1970,Florida,Severe Storm/Flooding
+1970,Kentucky,Severe Storm/Flooding
+1970,North Dakota,Severe Storm/Flooding
+1970,Texas,Severe Storm/Flooding
+1970,Alabama,Severe Storm/Flooding
+1970,Maine,Winter Storm
+1970,California,Severe Storm/Flooding
+1970,Kentucky,Winter Storm
+1971,Louisiana,Tropical Storm
+1971,Oklahoma,Severe Storm/Flooding
+1971,Texas,Severe Storm/Flooding
+1971,Pennsylvania,Severe Storm/Flooding
+1971,New York,Severe Storm/Flooding
+1971,New Jersey,Severe Storm/Flooding
+1971,Maryland,Severe Storm/Flooding
+1971,Nebraska,Severe Storm/Flooding
+1971,Tennessee,Severe Storm/Flooding
+1971,Kentucky,Severe Storm/Flooding
+1971,Oklahoma,Fire
+1971,Florida,Winter Storm
+1971,Nebraska,Severe Storm/Flooding
+1971,Mississippi,Severe Storm/Flooding
+1971,Oregon,Severe Storm/Flooding
+1971,Washington,Winter Storm
+1971,California,Other
+1972,Michigan,Severe Storm/Flooding
+1972,Ohio,Severe Storm/Flooding
+1972,New Mexico,Severe Storm/Flooding
+1972,Arizona,Severe Storm/Flooding
+1972,Virginia,Severe Storm/Flooding
+1972,Virginia,Severe Storm/Flooding
+1972,Pennsylvania,Severe Storm/Flooding
+1972,Maine,Other
+1972,Massachusetts,Other
+1972,Iowa,Severe Storm/Flooding
+1972,New Mexico,Severe Storm/Flooding
+1972,Wisconsin,Severe Storm/Flooding
+1972,Illinois,Severe Storm/Flooding
+1972,Minnesota,Severe Storm/Flooding
+1972,West Virginia,Severe Storm/Flooding
+1972,Iowa,Severe Storm/Flooding
+1972,New Mexico,Severe Storm/Flooding
+1972,Minnesota,Severe Storm/Flooding
+1972,Ohio,Tropical Storm
+1972,West Virginia,Tropical Storm
+1972,Arizona,Severe Storm/Flooding
+1972,California,Severe Storm/Flooding
+1972,New York,Tropical Storm
+1972,Pennsylvania,Tropical Storm
+1972,Maryland,Tropical Storm
+1972,Florida,Tropical Storm
+1972,Virginia,Tropical Storm
+1972,South Dakota,Severe Storm/Flooding
+1972,North Dakota,Severe Storm/Flooding
+1972,Washington,Severe Storm/Flooding
+1972,Texas,Severe Storm/Flooding
+1972,Tennessee,Severe Storm/Flooding
+1972,Kentucky,Severe Storm/Flooding
+1972,California,Severe Storm/Flooding
+1972,Michigan,Winter Storm
+1972,Washington,Severe Storm/Flooding
+1972,New Hampshire,Other
+1972,Maine,Severe Storm/Flooding
+1972,Massachusetts,Severe Storm/Flooding
+1972,Idaho,Severe Storm/Flooding
+1972,West Virginia,Severe Storm/Flooding
+1972,Washington,Severe Storm/Flooding
+1972,Texas,Severe Storm/Flooding
+1972,Arkansas,Severe Storm/Flooding
+1972,Oregon,Severe Storm/Flooding
+1972,Mississippi,Severe Storm/Flooding
+1972,Oklahoma,Severe Storm/Flooding
+1972,California,Severe Storm/Flooding
+1973,Oklahoma,Severe Storm/Flooding
+1973,Missouri,Severe Storm/Flooding
+1973,Nebraska,Severe Storm/Flooding
+1973,Massachusetts,Fire
+1973,Oklahoma,Severe Storm/Flooding
+1973,Kansas,Severe Storm/Flooding
+1973,Oregon,Fire
+1973,Oregon,Fire
+1973,Montana,Fire
+1973,Oregon,Fire
+1973,Montana,Fire
+1973,Oregon,Fire
+1973,Oregon,Fire
+1973,Montana,Fire
+1973,New Jersey,Severe Storm/Flooding
+1973,New York,Severe Storm/Flooding
+1973,Pennsylvania,Severe Storm/Flooding
+1973,Texas,Severe Storm/Flooding
+1973,New Hampshire,Severe Storm/Flooding
+1973,Vermont,Severe Storm/Flooding
+1973,Colorado,Severe Storm/Flooding
+1973,Tennessee,Severe Storm/Flooding
+1973,North Carolina,Severe Storm/Flooding
+1973,Texas,Severe Storm/Flooding
+1973,Oklahoma,Severe Storm/Flooding
+1973,Georgia,Severe Storm/Flooding
+1973,Ohio,Other
+1973,Arkansas,Severe Storm/Flooding
+1973,Alabama,Severe Storm/Flooding
+1973,Florida,Severe Storm/Flooding
+1973,Maine,Severe Storm/Flooding
+1973,Colorado,Winter Storm
+1973,Iowa,Severe Storm/Flooding
+1973,Kentucky,Severe Storm/Flooding
+1973,Tennessee,Severe Storm/Flooding
+1973,New Mexico,Winter Storm
+1973,Colorado,Other
+1973,Kansas,Severe Storm/Flooding
+1973,Arkansas,Severe Storm/Flooding
+1973,Louisiana,Severe Storm/Flooding
+1973,Ohio,Severe Storm/Flooding
+1973,Wisconsin,Severe Storm/Flooding
+1973,Illinois,Severe Storm/Flooding
+1973,Missouri,Severe Storm/Flooding
+1973,Michigan,Severe Storm/Flooding
+1973,Georgia,Severe Storm/Flooding
+1973,Mississippi,Severe Storm/Flooding
+1973,Alabama,Severe Storm/Flooding
+1973,Tennessee,Severe Storm/Flooding
+1973,New York,Severe Storm/Flooding
+1973,Texas,Severe Storm/Flooding
+1973,California,Severe Storm/Flooding
+1974,New Jersey,Severe Storm/Flooding
+1974,Texas,Severe Storm/Flooding
+1974,Oklahoma,Severe Storm/Flooding
+1974,New York,Severe Storm/Flooding
+1974,Louisiana,Severe Storm/Flooding
+1974,Louisiana,Tropical Storm
+1974,Arkansas,Other
+1974,New York,Severe Storm/Flooding
+1974,Minnesota,Severe Storm/Flooding
+1974,Ohio,Severe Storm/Flooding
+1974,South Dakota,Fire
+1974,Iowa,Severe Storm/Flooding
+1974,Oklahoma,Severe Storm/Flooding
+1974,Minnesota,Severe Storm/Flooding
+1974,Kansas,Severe Storm/Flooding
+1974,Missouri,Severe Storm/Flooding
+1974,Illinois,Severe Storm/Flooding
+1974,Arkansas,Severe Storm/Flooding
+1974,Ohio,Severe Storm/Flooding
+1974,Arkansas,Severe Storm/Flooding
+1974,New Mexico,Fire
+1974,North Dakota,Winter Storm
+1974,California,Severe Storm/Flooding
+1974,Wisconsin,Severe Storm/Flooding
+1974,Mississippi,Severe Storm/Flooding
+1974,North Carolina,Severe Storm/Flooding
+1974,Michigan,Severe Storm/Flooding
+1974,West Virginia,Severe Storm/Flooding
+1974,Illinois,Severe Storm/Flooding
+1974,Georgia,Severe Storm/Flooding
+1974,Kentucky,Severe Storm/Flooding
+1974,Tennessee,Severe Storm/Flooding
+1974,Alabama,Severe Storm/Flooding
+1974,Indiana,Severe Storm/Flooding
+1974,Ohio,Severe Storm/Flooding
+1974,Oklahoma,Severe Storm/Flooding
+1974,Louisiana,Severe Storm/Flooding
+1974,Montana,Severe Storm/Flooding
+1974,West Virginia,Severe Storm/Flooding
+1974,Idaho,Winter Storm
+1974,Washington,Winter Storm
+1974,Oregon,Winter Storm
+1974,California,Severe Storm/Flooding
+1974,New Hampshire,Severe Storm/Flooding
+1974,Maine,Severe Storm/Flooding
+1975,Washington,Severe Storm/Flooding
+1975,Oklahoma,Severe Storm/Flooding
+1975,Maryland,Severe Storm/Flooding
+1975,New York,Severe Storm/Flooding
+1975,Alabama,Severe Storm/Flooding
+1975,Michigan,Severe Storm/Flooding
+1975,Florida,Severe Storm/Flooding
+1975,Pennsylvania,Severe Storm/Flooding
+1975,Wisconsin,Severe Storm/Flooding
+1975,West Virginia,Severe Storm/Flooding
+1975,Ohio,Severe Storm/Flooding
+1975,Florida,Severe Storm/Flooding
+1975,South Dakota,Fire
+1975,Illinois,Severe Storm/Flooding
+1975,New Jersey,Severe Storm/Flooding
+1975,Minnesota,Severe Storm/Flooding
+1975,North Dakota,Severe Storm/Flooding
+1975,Oklahoma,Severe Storm/Flooding
+1975,Minnesota,Severe Storm/Flooding
+1975,Montana,Winter Storm
+1975,Arkansas,Severe Storm/Flooding
+1975,Louisiana,Severe Storm/Flooding
+1975,North Dakota,Winter Storm
+1975,Kentucky,Severe Storm/Flooding
+1975,Nebraska,Severe Storm/Flooding
+1975,Missouri,Severe Storm/Flooding
+1975,Michigan,Severe Storm/Flooding
+1975,Alabama,Severe Storm/Flooding
+1975,Louisiana,Severe Storm/Flooding
+1975,Mississippi,Severe Storm/Flooding
+1975,Arkansas,Severe Storm/Flooding
+1975,Texas,Severe Storm/Flooding
+1975,Kentucky,Severe Storm/Flooding
+1975,Georgia,Severe Storm/Flooding
+1975,Tennessee,Severe Storm/Flooding
+1975,Kentucky,Other
+1975,Georgia,Severe Storm/Flooding
+1975,Alabama,Severe Storm/Flooding
+1975,Texas,Severe Storm/Flooding
+1975,Mississippi,Severe Storm/Flooding
+1975,Mississippi,Severe Storm/Flooding
+1975,Alabama,Severe Storm/Flooding
+1976,Arkansas,Other
+1976,Pennsylvania,Severe Storm/Flooding
+1976,Virginia,Other
+1976,Maryland,Severe Storm/Flooding
+1976,Minnesota,Fire
+1976,Missouri,Other
+1976,California,Tropical Storm
+1976,Minnesota,Fire
+1976,Minnesota,Fire
+1976,Minnesota,Fire
+1976,Minnesota,Fire
+1976,Minnesota,Fire
+1976,Minnesota,Fire
+1976,New York,Tropical Storm
+1976,New Jersey,Severe Storm/Flooding
+1976,Vermont,Severe Storm/Flooding
+1976,Colorado,Severe Storm/Flooding
+1976,Missouri,Severe Storm/Flooding
+1976,North Dakota,Other
+1976,New York,Severe Storm/Flooding
+1976,Kansas,Severe Storm/Flooding
+1976,Pennsylvania,Severe Storm/Flooding
+1976,New York,Severe Storm/Flooding
+1976,South Dakota,Severe Storm/Flooding
+1976,Texas,Severe Storm/Flooding
+1976,Illinois,Severe Storm/Flooding
+1976,South Dakota,Other
+1976,Wisconsin,Other
+1976,Minnesota,Other
+1976,Georgia,Severe Storm/Flooding
+1976,Idaho,Other
+1976,Oklahoma,Severe Storm/Flooding
+1976,North Dakota,Severe Storm/Flooding
+1976,North Dakota,Severe Storm/Flooding
+1976,Nebraska,Winter Storm
+1976,Oklahoma,Severe Storm/Flooding
+1976,Arkansas,Severe Storm/Flooding
+1976,Mississippi,Severe Storm/Flooding
+1976,Wisconsin,Severe Storm/Flooding
+1976,New York,Winter Storm
+1976,Michigan,Severe Storm/Flooding
+1977,Washington,Severe Storm/Flooding
+1977,Virginia,Severe Storm/Flooding
+1977,Tennessee,Severe Storm/Flooding
+1977,North Carolina,Severe Storm/Flooding
+1977,Georgia,Severe Storm/Flooding
+1977,Arizona,Severe Storm/Flooding
+1977,Wisconsin,Other
+1977,Kansas,Severe Storm/Flooding
+1977,Missouri,Severe Storm/Flooding
+1977,Vermont,Other
+1977,West Virginia,Other
+1977,West Virginia,Severe Storm/Flooding
+1977,Montana,Other
+1977,Idaho,Fire
+1977,North Carolina,Other
+1977,California,Fire
+1977,South Carolina,Other
+1977,Virginia,Other
+1977,Maine,Fire
+1977,Pennsylvania,Severe Storm/Flooding
+1977,Alabama,Other
+1977,Georgia,Other
+1977,Montana,Fire
+1977,New Mexico,Fire
+1977,Wyoming,Other
+1977,Nevada,Other
+1977,Georgia,Other
+1977,Missouri,Severe Storm/Flooding
+1977,Idaho,Other
+1977,Louisiana,Severe Storm/Flooding
+1977,Oregon,Other
+1977,Tennessee,Severe Storm/Flooding
+1977,Arizona,Other
+1977,Alabama,Severe Storm/Flooding
+1977,Virginia,Severe Storm/Flooding
+1977,West Virginia,Severe Storm/Flooding
+1977,Kentucky,Severe Storm/Flooding
+1977,Washington,Other
+1977,Iowa,Other
+1977,Michigan,Other
+1977,North Carolina,Winter Storm
+1977,New Mexico,Other
+1977,Louisiana,Winter Storm
+1977,Mississippi,Winter Storm
+1977,New Jersey,Winter Storm
+1977,Michigan,Winter Storm
+1977,New York,Winter Storm
+1977,Ohio,Winter Storm
+1977,Indiana,Winter Storm
+1977,Florida,Winter Storm
+1977,Colorado,Other
+1977,Pennsylvania,Winter Storm
+1977,New York,Winter Storm
+1977,Maryland,Winter Storm
+1977,Virginia,Winter Storm
+1977,Utah,Other
+1977,California,Other
+1977,West Virginia,Other
+1977,Oklahoma,Fire
+1977,Nebraska,Other
+1978,Arizona,Severe Storm/Flooding
+1978,West Virginia,Severe Storm/Flooding
+1978,Kentucky,Severe Storm/Flooding
+1978,Louisiana,Severe Storm/Flooding
+1978,California,Fire
+1978,California,Other
+1978,Louisiana,Severe Storm/Flooding
+1978,Arkansas,Severe Storm/Flooding
+1978,Colorado,Fire
+1978,Oregon,Fire
+1978,Alabama,Severe Storm/Flooding
+1978,New York,Other
+1978,Texas,Severe Storm/Flooding
+1978,Minnesota,Severe Storm/Flooding
+1978,North Dakota,Severe Storm/Flooding
+1978,Wisconsin,Severe Storm/Flooding
+1978,Montana,Severe Storm/Flooding
+1978,Wyoming,Severe Storm/Flooding
+1978,Louisiana,Severe Storm/Flooding
+1978,Mississippi,Severe Storm/Flooding
+1978,Alabama,Severe Storm/Flooding
+1978,Arkansas,Severe Storm/Flooding
+1978,Minnesota,Winter Storm
+1978,North Dakota,Winter Storm
+1978,Indiana,Severe Storm/Flooding
+1978,Nebraska,Winter Storm
+1978,Arizona,Severe Storm/Flooding
+1978,Maine,Severe Storm/Flooding
+1978,Rhode Island,Winter Storm
+1978,New Hampshire,Severe Storm/Flooding
+1978,North Dakota,Winter Storm
+1978,California,Severe Storm/Flooding
+1978,Massachusetts,Winter Storm
+1978,Massachusetts,Winter Storm
+1978,Rhode Island,Winter Storm
+1978,Connecticut,Winter Storm
+1978,Indiana,Winter Storm
+1978,Michigan,Winter Storm
+1978,Ohio,Winter Storm
+1978,Arkansas,Severe Storm/Flooding
+1979,Washington,Severe Storm/Flooding
+1979,California,Other
+1979,Connecticut,Severe Storm/Flooding
+1979,Virginia,Severe Storm/Flooding
+1979,North Carolina,Severe Storm/Flooding
+1979,Florida,Severe Storm/Flooding
+1979,Louisiana,Severe Storm/Flooding
+1979,Texas,Severe Storm/Flooding
+1979,Maryland,Severe Storm/Flooding
+1979,Mississippi,Tropical Storm
+1979,Alabama,Tropical Storm
+1979,Florida,Tropical Storm
+1979,Idaho,Fire
+1979,Montana,Fire
+1979,Oregon,Fire
+1979,Indiana,Severe Storm/Flooding
+1979,Texas,Severe Storm/Flooding
+1979,California,Severe Storm/Flooding
+1979,Oregon,Fire
+1979,Oregon,Fire
+1979,Washington,Fire
+1979,Virginia,Severe Storm/Flooding
+1979,Wyoming,Severe Storm/Flooding
+1979,Kentucky,Severe Storm/Flooding
+1979,Iowa,Severe Storm/Flooding
+1979,New Mexico,Winter Storm
+1979,Kansas,Severe Storm/Flooding
+1979,Texas,Severe Storm/Flooding
+1979,Nevada,Fire
+1979,Florida,Severe Storm/Flooding
+1979,Tennessee,Severe Storm/Flooding
+1979,Louisiana,Severe Storm/Flooding
+1979,Minnesota,Severe Storm/Flooding
+1979,Illinois,Severe Storm/Flooding
+1979,Texas,Severe Storm/Flooding
+1979,North Dakota,Winter Storm
+1979,Missouri,Severe Storm/Flooding
+1979,Alabama,Severe Storm/Flooding
+1979,Mississippi,Severe Storm/Flooding
+1979,Mississippi,Severe Storm/Flooding
+1979,Oklahoma,Severe Storm/Flooding
+1979,Arkansas,Severe Storm/Flooding
+1979,Texas,Severe Storm/Flooding
+1979,Iowa,Severe Storm/Flooding
+1979,Florida,Severe Storm/Flooding
+1979,Alabama,Severe Storm/Flooding
+1979,New Hampshire,Severe Storm/Flooding
+1979,Georgia,Severe Storm/Flooding
+1979,Missouri,Winter Storm
+1979,Washington,Severe Storm/Flooding
+1979,New Mexico,Severe Storm/Flooding
+1979,Wisconsin,Winter Storm
+1979,Illinois,Winter Storm
+1980,California,Fire
+1980,New Jersey,Drought
+1980,California,Severe Storm/Flooding
+1980,Texas,Tropical Storm
+1980,Maine,Other
+1980,Michigan,Severe Storm/Flooding
+1980,Ohio,Severe Storm/Flooding
+1980,Pennsylvania,Severe Storm/Flooding
+1980,West Virginia,Severe Storm/Flooding
+1980,Texas,Tropical Storm
+1980,Wisconsin,Severe Storm/Flooding
+1980,Colorado,Fire
+1980,Pennsylvania,Severe Storm/Flooding
+1980,Nebraska,Severe Storm/Flooding
+1980,Idaho,Other
+1980,Washington,Other
+1980,New York,Other
+1980,Louisiana,Severe Storm/Flooding
+1980,Michigan,Severe Storm/Flooding
+1980,Missouri,Severe Storm/Flooding
+1980,Florida,Other
+1980,Wisconsin,Fire
+1980,Alabama,Severe Storm/Flooding
+1980,Mississippi,Severe Storm/Flooding
+1980,Arkansas,Severe Storm/Flooding
+1980,Louisiana,Severe Storm/Flooding
+1980,California,Severe Storm/Flooding
+1980,Arizona,Severe Storm/Flooding
+1980,California,Other
+1981,Massachusetts,Fire
+1981,Oklahoma,Severe Storm/Flooding
+1981,Texas,Severe Storm/Flooding
+1981,Texas,Severe Storm/Flooding
+1981,Oregon,Fire
+1981,Nevada,Severe Storm/Flooding
+1981,Nevada,Fire
+1981,Oregon,Fire
+1981,Kansas,Severe Storm/Flooding
+1981,Ohio,Severe Storm/Flooding
+1981,Illinois,Severe Storm/Flooding
+1981,Pennsylvania,Severe Storm/Flooding
+1981,Montana,Severe Storm/Flooding
+1981,Alabama,Severe Storm/Flooding
+1981,Alabama,Severe Storm/Flooding
+1981,Kentucky,Other
+1982,Illinois,Severe Storm/Flooding
+1982,Arkansas,Severe Storm/Flooding
+1982,Missouri,Severe Storm/Flooding
+1982,Kentucky,Severe Storm/Flooding
+1982,California,Other
+1982,Tennessee,Severe Storm/Flooding
+1982,Missouri,Severe Storm/Flooding
+1982,Tennessee,Severe Storm/Flooding
+1982,Washington,Severe Storm/Flooding
+1982,Colorado,Severe Storm/Flooding
+1982,Florida,Severe Storm/Flooding
+1982,Kansas,Severe Storm/Flooding
+1982,Oklahoma,Severe Storm/Flooding
+1982,Connecticut,Severe Storm/Flooding
+1982,Illinois,Severe Storm/Flooding
+1982,Texas,Severe Storm/Flooding
+1982,North Dakota,Severe Storm/Flooding
+1982,California,Fire
+1982,Arkansas,Severe Storm/Flooding
+1982,Mississippi,Severe Storm/Flooding
+1982,Texas,Severe Storm/Flooding
+1982,Michigan,Severe Storm/Flooding
+1982,Ohio,Severe Storm/Flooding
+1982,Indiana,Severe Storm/Flooding
+1982,California,Severe Storm/Flooding
+1983,Mississippi,Severe Storm/Flooding
+1983,Alabama,Severe Storm/Flooding
+1983,Idaho,Other
+1983,Oklahoma,Severe Storm/Flooding
+1983,New Mexico,Severe Storm/Flooding
+1983,Arizona,Severe Storm/Flooding
+1983,California,Severe Storm/Flooding
+1983,Texas,Tropical Storm
+1983,Arkansas,Severe Storm/Flooding
+1983,Nevada,Fire
+1983,Arizona,Severe Storm/Flooding
+1983,California,Severe Storm/Flooding
+1983,Oklahoma,Severe Storm/Flooding
+1983,Illinois,Severe Storm/Flooding
+1983,Mississippi,Severe Storm/Flooding
+1983,California,Other
+1983,Utah,Severe Storm/Flooding
+1983,Louisiana,Severe Storm/Flooding
+1983,Mississippi,Severe Storm/Flooding
+1983,California,Severe Storm/Flooding
+1983,Washington,Severe Storm/Flooding
+1983,Louisiana,Severe Storm/Flooding
+1984,Louisiana,Severe Storm/Flooding
+1984,Texas,Severe Storm/Flooding
+1984,Texas,Severe Storm/Flooding
+1984,New York,Severe Storm/Flooding
+1984,North Carolina,Tropical Storm
+1984,New Mexico,Severe Storm/Flooding
+1984,Nevada,Severe Storm/Flooding
+1984,Montana,Fire
+1984,Montana,Fire
+1984,Oregon,Fire
+1984,Pennsylvania,Severe Storm/Flooding
+1984,Montana,Fire
+1984,Utah,Severe Storm/Flooding
+1984,Colorado,Severe Storm/Flooding
+1984,Nebraska,Severe Storm/Flooding
+1984,South Dakota,Severe Storm/Flooding
+1984,Wisconsin,Severe Storm/Flooding
+1984,Nebraska,Severe Storm/Flooding
+1984,Iowa,Severe Storm/Flooding
+1984,Kansas,Severe Storm/Flooding
+1984,Missouri,Severe Storm/Flooding
+1984,Connecticut,Severe Storm/Flooding
+1984,Vermont,Severe Storm/Flooding
+1984,Wisconsin,Severe Storm/Flooding
+1984,Oklahoma,Severe Storm/Flooding
+1984,Tennessee,Severe Storm/Flooding
+1984,Virginia,Severe Storm/Flooding
+1984,Kentucky,Severe Storm/Flooding
+1984,West Virginia,Severe Storm/Flooding
+1984,Louisiana,Severe Storm/Flooding
+1984,Georgia,Severe Storm/Flooding
+1984,Alabama,Severe Storm/Flooding
+1984,Oklahoma,Severe Storm/Flooding
+1984,Mississippi,Severe Storm/Flooding
+1984,New York,Severe Storm/Flooding
+1984,New Jersey,Severe Storm/Flooding
+1984,South Carolina,Severe Storm/Flooding
+1984,North Carolina,Severe Storm/Flooding
+1984,Florida,Winter Storm
+1984,Idaho,Winter Storm
+1984,Texas,Winter Storm
+1985,Florida,Tropical Storm
+1985,Pennsylvania,Severe Storm/Flooding
+1985,Virginia,Severe Storm/Flooding
+1985,West Virginia,Severe Storm/Flooding
+1985,Louisiana,Tropical Storm
+1985,Massachusetts,Tropical Storm
+1985,New York,Tropical Storm
+1985,Rhode Island,Tropical Storm
+1985,New Jersey,Tropical Storm
+1985,Connecticut,Tropical Storm
+1985,Pennsylvania,Tropical Storm
+1985,Michigan,Severe Storm/Flooding
+1985,Florida,Tropical Storm
+1985,Alabama,Tropical Storm
+1985,Mississippi,Tropical Storm
+1985,Washington,Fire
+1985,Wyoming,Severe Storm/Flooding
+1985,California,Fire
+1985,South Dakota,Fire
+1985,South Dakota,Fire
+1985,California,Fire
+1985,California,Fire
+1985,Pennsylvania,Severe Storm/Flooding
+1985,Ohio,Severe Storm/Flooding
+1985,Florida,Fire
+1985,Florida,Fire
+1985,Florida,Fire
+1985,Florida,Fire
+1985,Illinois,Severe Storm/Flooding
+1985,New York,Winter Storm
+1985,New York,Severe Storm/Flooding
+1985,Florida,Winter Storm
+1985,New Mexico,Severe Storm/Flooding
+1985,Arizona,Severe Storm/Flooding
+1986,Washington,Severe Storm/Flooding
+1986,Kansas,Severe Storm/Flooding
+1986,Montana,Severe Storm/Flooding
+1986,Oklahoma,Severe Storm/Flooding
+1986,Missouri,Severe Storm/Flooding
+1986,Illinois,Severe Storm/Flooding
+1986,Wisconsin,Severe Storm/Flooding
+1986,Michigan,Severe Storm/Flooding
+1986,Maryland,Severe Storm/Flooding
+1986,Texas,Severe Storm/Flooding
+1986,New Hampshire,Severe Storm/Flooding
+1986,Wisconsin,Severe Storm/Flooding
+1986,Washington,Severe Storm/Flooding
+1986,Pennsylvania,Severe Storm/Flooding
+1986,Indiana,Severe Storm/Flooding
+1986,North Carolina,Fire
+1986,South Dakota,Severe Storm/Flooding
+1986,Texas,Severe Storm/Flooding
+1986,Washington,Severe Storm/Flooding
+1986,Montana,Severe Storm/Flooding
+1986,Utah,Winter Storm
+1986,Nevada,Severe Storm/Flooding
+1986,California,Severe Storm/Flooding
+1986,Washington,Severe Storm/Flooding
+1987,Arkansas,Severe Storm/Flooding
+1987,Arkansas,Severe Storm/Flooding
+1987,Louisiana,Severe Storm/Flooding
+1987,Texas,Severe Storm/Flooding
+1987,New York,Winter Storm
+1987,Oregon,Fire
+1987,California,Other
+1987,Wyoming,Other
+1987,California,Fire
+1987,Oregon,Fire
+1987,Oregon,Fire
+1987,Oregon,Fire
+1987,Illinois,Severe Storm/Flooding
+1987,Minnesota,Severe Storm/Flooding
+1987,South Dakota,Fire
+1987,Iowa,Severe Storm/Flooding
+1987,Ohio,Severe Storm/Flooding
+1987,Oregon,Fire
+1987,Oklahoma,Severe Storm/Flooding
+1987,Texas,Severe Storm/Flooding
+1987,New York,Severe Storm/Flooding
+1987,Massachusetts,Severe Storm/Flooding
+1987,New Hampshire,Severe Storm/Flooding
+1987,Maine,Severe Storm/Flooding
+1987,Mississippi,Severe Storm/Flooding
+1988,North Carolina,Severe Storm/Flooding
+1988,Arkansas,Severe Storm/Flooding
+1988,Texas,Tropical Storm
+1988,California,Fire
+1988,California,Fire
+1988,Washington,Fire
+1988,Oregon,Fire
+1988,Iowa,Severe Storm/Flooding
+1988,South Dakota,Fire
+1988,Texas,Fire
+1988,California,Severe Storm/Flooding
+1989,Louisiana,Severe Storm/Flooding
+1989,Alabama,Severe Storm/Flooding
+1989,Virginia,Severe Storm/Flooding
+1989,Kentucky,Severe Storm/Flooding
+1989,California,Other
+1989,North Carolina,Tropical Storm
+1989,South Carolina,Tropical Storm
+1989,Vermont,Severe Storm/Flooding
+1989,Maryland,Severe Storm/Flooding
+1989,Texas,Tropical Storm
+1989,Louisiana,Tropical Storm
+1989,Connecticut,Severe Storm/Flooding
+1989,Colorado,Fire
+1989,Kentucky,Severe Storm/Flooding
+1989,Louisiana,Severe Storm/Flooding
+1989,Ohio,Severe Storm/Flooding
+1989,Maine,Severe Storm/Flooding
+1989,Louisiana,Severe Storm/Flooding
+1989,Texas,Severe Storm/Flooding
+1989,North Carolina,Severe Storm/Flooding
+1989,North Dakota,Severe Storm/Flooding
+1989,Minnesota,Severe Storm/Flooding
+1989,Texas,Severe Storm/Flooding
+1989,Washington,Severe Storm/Flooding
+1989,Kentucky,Severe Storm/Flooding
+1989,Utah,Severe Storm/Flooding
+1989,Illinois,Severe Storm/Flooding
+1990,Arizona,Severe Storm/Flooding
+1990,Indiana,Severe Storm/Flooding
+1990,Washington,Severe Storm/Flooding
+1990,Colorado,Fire
+1990,South Carolina,Severe Storm/Flooding
+1990,Georgia,Severe Storm/Flooding
+1990,South Dakota,Fire
+1990,Iowa,Severe Storm/Flooding
+1990,Wisconsin,Severe Storm/Flooding
+1990,Illinois,Severe Storm/Flooding
+1990,New Hampshire,Severe Storm/Flooding
+1990,Oregon,Fire
+1990,Vermont,Severe Storm/Flooding
+1990,Wisconsin,Severe Storm/Flooding
+1990,Nebraska,Severe Storm/Flooding
+1990,California,Fire
+1990,Arizona,Fire
+1990,Illinois,Severe Storm/Flooding
+1990,Ohio,Severe Storm/Flooding
+1990,Indiana,Severe Storm/Flooding
+1990,Iowa,Severe Storm/Flooding
+1990,Missouri,Severe Storm/Flooding
+1990,Oklahoma,Severe Storm/Flooding
+1990,Arkansas,Severe Storm/Flooding
+1990,Texas,Severe Storm/Flooding
+1990,Florida,Severe Storm/Flooding
+1990,Alabama,Severe Storm/Flooding
+1990,Illinois,Winter Storm
+1990,Mississippi,Severe Storm/Flooding
+1990,Tennessee,Severe Storm/Flooding
+1990,Georgia,Severe Storm/Flooding
+1990,Alabama,Severe Storm/Flooding
+1990,Oregon,Severe Storm/Flooding
+1990,Washington,Severe Storm/Flooding
+1990,Florida,Winter Storm
+1990,Texas,Winter Storm
+1991,Iowa,Winter Storm
+1991,Texas,Severe Storm/Flooding
+1991,Minnesota,Winter Storm
+1991,Washington,Fire
+1991,New Hampshire,Other
+1991,Maine,Other
+1991,Massachusetts,Other
+1991,California,Fire
+1991,Washington,Fire
+1991,New York,Tropical Storm
+1991,New Hampshire,Tropical Storm
+1991,Connecticut,Tropical Storm
+1991,Maine,Tropical Storm
+1991,Massachusetts,Tropical Storm
+1991,Rhode Island,Tropical Storm
+1991,Wisconsin,Severe Storm/Flooding
+1991,Iowa,Severe Storm/Flooding
+1991,Tennessee,Severe Storm/Flooding
+1991,Arkansas,Severe Storm/Flooding
+1991,Nebraska,Severe Storm/Flooding
+1991,Mississippi,Severe Storm/Flooding
+1991,Oklahoma,Severe Storm/Flooding
+1991,Louisiana,Severe Storm/Flooding
+1991,Kansas,Severe Storm/Flooding
+1991,Louisiana,Severe Storm/Flooding
+1991,Maine,Winter Storm
+1991,Texas,Severe Storm/Flooding
+1991,Indiana,Winter Storm
+1991,New York,Winter Storm
+1991,Georgia,Severe Storm/Flooding
+1991,Washington,Severe Storm/Flooding
+1991,Mississippi,Severe Storm/Flooding
+1991,California,Winter Storm
+1991,Kentucky,Severe Storm/Flooding
+1991,Indiana,Severe Storm/Flooding
+1991,Tennessee,Severe Storm/Flooding
+1991,Alabama,Severe Storm/Flooding
+1991,Mississippi,Severe Storm/Flooding
+1992,New York,Severe Storm/Flooding
+1992,Massachusetts,Winter Storm
+1992,New Jersey,Severe Storm/Flooding
+1992,Connecticut,Winter Storm
+1992,Texas,Severe Storm/Flooding
+1992,Georgia,Severe Storm/Flooding
+1992,Mississippi,Severe Storm/Flooding
+1992,Mississippi,Severe Storm/Flooding
+1992,Florida,Severe Storm/Flooding
+1992,Iowa,Severe Storm/Flooding
+1992,Wisconsin,Severe Storm/Flooding
+1992,Indiana,Severe Storm/Flooding
+1992,Wisconsin,Severe Storm/Flooding
+1992,Rhode Island,Other
+1992,Texas,Severe Storm/Flooding
+1992,Wisconsin,Severe Storm/Flooding
+1992,California,Fire
+1992,Louisiana,Tropical Storm
+1992,Florida,Tropical Storm
+1992,Nebraska,Severe Storm/Flooding
+1992,Indiana,Severe Storm/Flooding
+1992,Florida,Severe Storm/Flooding
+1992,Washington,Fire
+1992,Oregon,Fire
+1992,Oregon,Fire
+1992,Ohio,Severe Storm/Flooding
+1992,Arkansas,Severe Storm/Flooding
+1992,California,Other
+1992,Texas,Severe Storm/Flooding
+1992,South Dakota,Severe Storm/Flooding
+1992,Minnesota,Severe Storm/Flooding
+1992,New Mexico,Severe Storm/Flooding
+1992,Oregon,Fire
+1992,Oregon,Fire
+1992,Maine,Fire
+1992,Virginia,Severe Storm/Flooding
+1992,California,Other
+1992,California,Fire
+1992,Illinois,Severe Storm/Flooding
+1992,Maine,Winter Storm
+1992,Texas,Severe Storm/Flooding
+1992,Mississippi,Severe Storm/Flooding
+1992,Vermont,Winter Storm
+1992,New Jersey,Other
+1992,California,Winter Storm
+1992,Delaware,Other
+1993,Virginia,Severe Storm/Flooding
+1993,Missouri,Severe Storm/Flooding
+1993,California,Fire
+1993,Oregon,Other
+1993,Texas,Fire
+1993,Texas,Fire
+1993,North Carolina,Tropical Storm
+1993,Texas,Fire
+1993,Indiana,Severe Storm/Flooding
+1993,Texas,Fire
+1993,North Dakota,Severe Storm/Flooding
+1993,Kansas,Severe Storm/Flooding
+1993,Nebraska,Severe Storm/Flooding
+1993,South Dakota,Severe Storm/Flooding
+1993,Missouri,Severe Storm/Flooding
+1993,Iowa,Severe Storm/Flooding
+1993,Illinois,Severe Storm/Flooding
+1993,Arizona,Fire
+1993,Wisconsin,Severe Storm/Flooding
+1993,Arizona,Fire
+1993,Arizona,Fire
+1993,Minnesota,Severe Storm/Flooding
+1993,Arizona,Fire
+1993,New Mexico,Severe Storm/Flooding
+1993,Vermont,Winter Storm
+1993,Oklahoma,Severe Storm/Flooding
+1993,Missouri,Severe Storm/Flooding
+1993,Maine,Winter Storm
+1993,Oregon,Other
+1993,Oklahoma,Severe Storm/Flooding
+1993,Iowa,Severe Storm/Flooding
+1993,Nebraska,Winter Storm
+1993,New York,Other
+1993,Virginia,Winter Storm
+1993,Delaware,Winter Storm
+1993,New York,Winter Storm
+1993,North Carolina,Winter Storm
+1993,New Jersey,Winter Storm
+1993,West Virginia,Winter Storm
+1993,Kentucky,Winter Storm
+1993,New Hampshire,Winter Storm
+1993,Connecticut,Winter Storm
+1993,Pennsylvania,Winter Storm
+1993,Massachusetts,Winter Storm
+1993,Rhode Island,Winter Storm
+1993,Maryland,Winter Storm
+1993,Georgia,Winter Storm
+1993,Alabama,Winter Storm
+1993,Maine,Winter Storm
+1993,Tennessee,Winter Storm
+1993,Florida,Winter Storm
+1993,Georgia,Severe Storm/Flooding
+1993,Washington,Severe Storm/Flooding
+1993,California,Winter Storm
+1993,Louisiana,Severe Storm/Flooding
+1993,Arizona,Severe Storm/Flooding
+1993,Delaware,Severe Storm/Flooding
+1994,Florida,Tropical Storm
+1994,Georgia,Severe Storm/Flooding
+1994,Texas,Severe Storm/Flooding
+1994,California,Other
+1994,Oregon,Fire
+1994,Montana,Fire
+1994,Montana,Fire
+1994,South Dakota,Fire
+1994,Utah,Fire
+1994,Utah,Fire
+1994,Nevada,Fire
+1994,Washington,Other
+1994,Oregon,Other
+1994,Washington,Fire
+1994,Washington,Fire
+1994,Washington,Fire
+1994,Colorado,Fire
+1994,Texas,Fire
+1994,Washington,Fire
+1994,Florida,Tropical Storm
+1994,Alabama,Tropical Storm
+1994,Florida,Tropical Storm
+1994,Georgia,Tropical Storm
+1994,Colorado,Fire
+1994,Colorado,Fire
+1994,North Dakota,Severe Storm/Flooding
+1994,Arizona,Fire
+1994,Arizona,Fire
+1994,Arizona,Fire
+1994,South Dakota,Severe Storm/Flooding
+1994,Arizona,Fire
+1994,Maine,Winter Storm
+1994,Michigan,Winter Storm
+1994,Nebraska,Winter Storm
+1994,Texas,Severe Storm/Flooding
+1994,Illinois,Severe Storm/Flooding
+1994,Arizona,Fire
+1994,Oklahoma,Severe Storm/Flooding
+1994,Missouri,Severe Storm/Flooding
+1994,Tennessee,Severe Storm/Flooding
+1994,Virginia,Winter Storm
+1994,Georgia,Severe Storm/Flooding
+1994,Alabama,Severe Storm/Flooding
+1994,Kentucky,Winter Storm
+1994,Maryland,Winter Storm
+1994,Delaware,Winter Storm
+1994,Virginia,Winter Storm
+1994,Pennsylvania,Winter Storm
+1994,Alabama,Winter Storm
+1994,Arkansas,Winter Storm
+1994,Tennessee,Winter Storm
+1994,Louisiana,Winter Storm
+1994,Mississippi,Winter Storm
+1994,California,Other
+1995,Georgia,Severe Storm/Flooding
+1995,Florida,Severe Storm/Flooding
+1995,North Carolina,Severe Storm/Flooding
+1995,Georgia,Tropical Storm
+1995,Alabama,Tropical Storm
+1995,Florida,Tropical Storm
+1995,Massachusetts,Fire
+1995,Oklahoma,Severe Storm/Flooding
+1995,New York,Fire
+1995,Ohio,Severe Storm/Flooding
+1995,Minnesota,Severe Storm/Flooding
+1995,Vermont,Severe Storm/Flooding
+1995,Florida,Tropical Storm
+1995,Florida,Tropical Storm
+1995,Oregon,Severe Storm/Flooding
+1995,West Virginia,Severe Storm/Flooding
+1995,Arizona,Fire
+1995,Virginia,Severe Storm/Flooding
+1995,Oklahoma,Severe Storm/Flooding
+1995,Tennessee,Severe Storm/Flooding
+1995,Texas,Severe Storm/Flooding
+1995,Kentucky,Severe Storm/Flooding
+1995,Arizona,Fire
+1995,Missouri,Severe Storm/Flooding
+1995,Illinois,Severe Storm/Flooding
+1995,South Dakota,Severe Storm/Flooding
+1995,North Dakota,Severe Storm/Flooding
+1995,Mississippi,Severe Storm/Flooding
+1995,Louisiana,Severe Storm/Flooding
+1995,Oklahoma,Other
+1995,Alabama,Severe Storm/Flooding
+1995,Oklahoma,Other
+1995,South Dakota,Winter Storm
+1995,California,Winter Storm
+1995,California,Winter Storm
+1996,Oregon,Severe Storm/Flooding
+1996,Pennsylvania,Severe Storm/Flooding
+1996,New York,Severe Storm/Flooding
+1996,Rhode Island,Other
+1996,New Jersey,Severe Storm/Flooding
+1996,New York,Severe Storm/Flooding
+1996,New Hampshire,Severe Storm/Flooding
+1996,Maine,Severe Storm/Flooding
+1996,Massachusetts,Severe Storm/Flooding
+1996,Maine,Severe Storm/Flooding
+1996,California,Fire
+1996,Massachusetts,Severe Storm/Flooding
+1996,Florida,Severe Storm/Flooding
+1996,South Carolina,Tropical Storm
+1996,Maryland,Tropical Storm
+1996,Pennsylvania,Tropical Storm
+1996,West Virginia,Tropical Storm
+1996,Virginia,Tropical Storm
+1996,Montana,Fire
+1996,North Carolina,Tropical Storm
+1996,Nevada,Fire
+1996,Oregon,Fire
+1996,Iowa,Severe Storm/Flooding
+1996,West Virginia,Severe Storm/Flooding
+1996,Nevada,Fire
+1996,Oregon,Fire
+1996,Washington,Fire
+1996,Nevada,Fire
+1996,Wisconsin,Severe Storm/Flooding
+1996,Pennsylvania,Severe Storm/Flooding
+1996,Illinois,Severe Storm/Flooding
+1996,Michigan,Severe Storm/Flooding
+1996,North Carolina,Tropical Storm
+1996,Texas,Fire
+1996,Indiana,Severe Storm/Flooding
+1996,Vermont,Severe Storm/Flooding
+1996,Nebraska,Severe Storm/Flooding
+1996,Ohio,Severe Storm/Flooding
+1996,Nevada,Fire
+1996,Arizona,Fire
+1996,Iowa,Severe Storm/Flooding
+1996,Arizona,Fire
+1996,Pennsylvania,Severe Storm/Flooding
+1996,North Dakota,Severe Storm/Flooding
+1996,Kentucky,Severe Storm/Flooding
+1996,Minnesota,Severe Storm/Flooding
+1996,Texas,Fire
+1996,West Virginia,Severe Storm/Flooding
+1996,Maine,Severe Storm/Flooding
+1996,Colorado,Fire
+1996,Montana,Severe Storm/Flooding
+1996,Illinois,Severe Storm/Flooding
+1996,New Mexico,Fire
+1996,Arizona,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Illinois,Severe Storm/Flooding
+1996,Arkansas,Severe Storm/Flooding
+1996,Oklahoma,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Indiana,Winter Storm
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Alabama,Severe Storm/Flooding
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Oregon,Severe Storm/Flooding
+1996,Texas,Fire
+1996,Oklahoma,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Maine,Severe Storm/Flooding
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Oklahoma,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Oklahoma,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Texas,Fire
+1996,Oklahoma,Fire
+1996,Texas,Fire
+1996,Oklahoma,Fire
+1996,Oklahoma,Fire
+1996,Texas,Fire
+1996,Montana,Severe Storm/Flooding
+1996,Oklahoma,Fire
+1996,Alabama,Severe Storm/Flooding
+1996,North Carolina,Severe Storm/Flooding
+1996,Texas,Fire
+1996,Vermont,Severe Storm/Flooding
+1996,Idaho,Severe Storm/Flooding
+1996,Washington,Severe Storm/Flooding
+1996,Oregon,Severe Storm/Flooding
+1996,Virginia,Severe Storm/Flooding
+1996,Ohio,Severe Storm/Flooding
+1996,West Virginia,Severe Storm/Flooding
+1996,New York,Severe Storm/Flooding
+1996,Rhode Island,Winter Storm
+1996,Massachusetts,Winter Storm
+1996,Connecticut,Winter Storm
+1996,Maryland,Severe Storm/Flooding
+1996,Pennsylvania,Severe Storm/Flooding
+1996,Virginia,Winter Storm
+1996,Kentucky,Winter Storm
+1996,West Virginia,Winter Storm
+1996,New Jersey,Winter Storm
+1996,Pennsylvania,Winter Storm
+1996,North Carolina,Winter Storm
+1996,Delaware,Winter Storm
+1996,New York,Winter Storm
+1996,Maryland,Winter Storm
+1996,Minnesota,Winter Storm
+1996,South Dakota,Winter Storm
+1996,Washington,Severe Storm/Flooding
+1996,New Hampshire,Severe Storm/Flooding
+1997,Iowa,Winter Storm
+1997,Nebraska,Winter Storm
+1997,New Jersey,Severe Storm/Flooding
+1997,Illinois,Severe Storm/Flooding
+1997,Washington,Fire
+1997,Minnesota,Severe Storm/Flooding
+1997,Washington,Fire
+1997,Colorado,Severe Storm/Flooding
+1997,Vermont,Severe Storm/Flooding
+1997,Alabama,Severe Storm/Flooding
+1997,Montana,Winter Storm
+1997,Washington,Winter Storm
+1997,Washington,Fire
+1997,Michigan,Severe Storm/Flooding
+1997,Texas,Severe Storm/Flooding
+1997,Wisconsin,Severe Storm/Flooding
+1997,Mississippi,Severe Storm/Flooding
+1997,Idaho,Severe Storm/Flooding
+1997,Arkansas,Severe Storm/Flooding
+1997,Minnesota,Severe Storm/Flooding
+1997,South Dakota,Severe Storm/Flooding
+1997,North Dakota,Severe Storm/Flooding
+1997,Tennessee,Severe Storm/Flooding
+1997,Washington,Severe Storm/Flooding
+1997,Illinois,Severe Storm/Flooding
+1997,Louisiana,Winter Storm
+1997,West Virginia,Severe Storm/Flooding
+1997,Tennessee,Severe Storm/Flooding
+1997,Indiana,Severe Storm/Flooding
+1997,Kentucky,Severe Storm/Flooding
+1997,Ohio,Severe Storm/Flooding
+1997,Arkansas,Severe Storm/Flooding
+1997,South Dakota,Winter Storm
+1997,Oregon,Winter Storm
+1997,Washington,Winter Storm
+1997,Minnesota,Winter Storm
+1997,North Dakota,Winter Storm
+1997,South Dakota,Winter Storm
+1997,Minnesota,Winter Storm
+1997,Washington,Winter Storm
+1997,Idaho,Severe Storm/Flooding
+1997,California,Severe Storm/Flooding
+1997,Nevada,Severe Storm/Flooding
+1998,Florida,Tropical Storm
+1998,Kansas,Severe Storm/Flooding
+1998,Texas,Severe Storm/Flooding
+1998,Missouri,Severe Storm/Flooding
+1998,Washington,Other
+1998,Kansas,Severe Storm/Flooding
+1998,Missouri,Severe Storm/Flooding
+1998,Washington,Severe Storm/Flooding
+1998,Mississippi,Tropical Storm
+1998,Alabama,Tropical Storm
+1998,Florida,Tropical Storm
+1998,Alabama,Tropical Storm
+1998,Mississippi,Tropical Storm
+1998,Florida,Tropical Storm
+1998,Washington,Fire
+1998,Texas,Tropical Storm
+1998,Louisiana,Tropical Storm
+1998,New York,Severe Storm/Flooding
+1998,Oklahoma,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Oklahoma,Fire
+1998,Florida,Tropical Storm
+1998,Virginia,Tropical Storm
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,South Carolina,Tropical Storm
+1998,Washington,Fire
+1998,Texas,Fire
+1998,North Carolina,Tropical Storm
+1998,Texas,Tropical Storm
+1998,Wisconsin,Severe Storm/Flooding
+1998,Michigan,Severe Storm/Flooding
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Oklahoma,Fire
+1998,Washington,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Wisconsin,Severe Storm/Flooding
+1998,Texas,Fire
+1998,Tennessee,Severe Storm/Flooding
+1998,Texas,Fire
+1998,Indiana,Severe Storm/Flooding
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Texas,Fire
+1998,New York,Severe Storm/Flooding
+1998,Iowa,Severe Storm/Flooding
+1998,New Hampshire,Severe Storm/Flooding
+1998,Maine,Severe Storm/Flooding
+1998,New Mexico,Fire
+1998,Texas,Fire
+1998,West Virginia,Severe Storm/Flooding
+1998,Vermont,Severe Storm/Flooding
+1998,Ohio,Severe Storm/Flooding
+1998,Texas,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,New Mexico,Fire
+1998,Michigan,Severe Storm/Flooding
+1998,Massachusetts,Severe Storm/Flooding
+1998,Texas,Fire
+1998,Minnesota,Severe Storm/Flooding
+1998,Florida,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,Texas,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,Texas,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,Florida,Fire
+1998,New York,Severe Storm/Flooding
+1998,North Dakota,Severe Storm/Flooding
+1998,Oregon,Severe Storm/Flooding
+1998,Kansas,Other
+1998,Pennsylvania,Severe Storm/Flooding
+1998,Florida,Fire
+1998,South Dakota,Severe Storm/Flooding
+1998,Texas,Fire
+1998,Texas,Fire
+1998,Indiana,Winter Storm
+1998,Kentucky,Severe Storm/Flooding
+1998,Arkansas,Severe Storm/Flooding
+1998,Tennessee,Severe Storm/Flooding
+1998,Alabama,Severe Storm/Flooding
+1998,Minnesota,Severe Storm/Flooding
+1998,North Carolina,Severe Storm/Flooding
+1998,Georgia,Severe Storm/Flooding
+1998,Alabama,Severe Storm/Flooding
+1998,New Jersey,Other
+1998,Kentucky,Winter Storm
+1998,Delaware,Severe Storm/Flooding
+1998,Florida,Severe Storm/Flooding
+1998,California,Winter Storm
+1998,New Mexico,Winter Storm
+1998,New Hampshire,Winter Storm
+1998,Vermont,Winter Storm
+1998,North Carolina,Severe Storm/Flooding
+1998,Tennessee,Severe Storm/Flooding
+1998,Maine,Winter Storm
+1998,New York,Winter Storm
+1998,Florida,Severe Storm/Flooding
+1999,Massachusetts,Fire
+1999,Texas,Fire
+1999,Kentucky,Fire
+1999,Maine,Tropical Storm
+1999,Vermont,Tropical Storm
+1999,Texas,Fire
+1999,Florida,Tropical Storm
+1999,New Hampshire,Tropical Storm
+1999,Florida,Tropical Storm
+1999,Arizona,Severe Storm/Flooding
+1999,Alabama,Fire
+1999,Maryland,Tropical Storm
+1999,Connecticut,Tropical Storm
+1999,Pennsylvania,Tropical Storm
+1999,New Mexico,Severe Storm/Flooding
+1999,Florida,Tropical Storm
+1999,Delaware,Tropical Storm
+1999,South Carolina,Tropical Storm
+1999,Texas,Fire
+1999,New York,Tropical Storm
+1999,Alabama,Fire
+1999,Alabama,Fire
+1999,Alabama,Fire
+1999,Alabama,Fire
+1999,Alabama,Fire
+1999,Virginia,Tropical Storm
+1999,Alabama,Fire
+1999,New York,Tropical Storm
+1999,New Jersey,Tropical Storm
+1999,Pennsylvania,Tropical Storm
+1999,New Jersey,Tropical Storm
+1999,Virginia,Tropical Storm
+1999,Texas,Fire
+1999,North Carolina,Tropical Storm
+1999,North Carolina,Tropical Storm
+1999,South Carolina,Tropical Storm
+1999,Florida,Tropical Storm
+1999,Georgia,Tropical Storm
+1999,North Carolina,Tropical Storm
+1999,Virginia,Tropical Storm
+1999,California,Fire
+1999,Texas,Fire
+1999,North Carolina,Tropical Storm
+1999,Pennsylvania,Severe Storm/Flooding
+1999,Texas,Fire
+1999,Texas,Fire
+1999,Texas,Fire
+1999,Texas,Fire
+1999,Minnesota,Winter Storm
+1999,Texas,Fire
+1999,Nevada,Fire
+1999,Texas,Tropical Storm
+1999,Texas,Fire
+1999,Nebraska,Severe Storm/Flooding
+1999,Utah,Severe Storm/Flooding
+1999,Wisconsin,Severe Storm/Flooding
+1999,New York,Fire
+1999,Nevada,Fire
+1999,Nevada,Fire
+1999,Minnesota,Severe Storm/Flooding
+1999,Montana,Fire
+1999,Iowa,Severe Storm/Flooding
+1999,Nevada,Severe Storm/Flooding
+1999,Nevada,Fire
+1999,Nevada,Fire
+1999,Arizona,Fire
+1999,South Dakota,Severe Storm/Flooding
+1999,North Dakota,Winter Storm
+1999,Illinois,Severe Storm/Flooding
+1999,Iowa,Severe Storm/Flooding
+1999,Colorado,Severe Storm/Flooding
+1999,Florida,Fire
+1999,Tennessee,Severe Storm/Flooding
+1999,Michigan,Fire
+1999,Texas,Severe Storm/Flooding
+1999,Oklahoma,Severe Storm/Flooding
+1999,Kansas,Severe Storm/Flooding
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Georgia,Severe Storm/Flooding
+1999,Missouri,Severe Storm/Flooding
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Florida,Fire
+1999,Tennessee,Fire
+1999,Louisiana,Severe Storm/Flooding
+1999,New York,Winter Storm
+1999,Texas,Fire
+1999,Wyoming,Winter Storm
+1999,California,Winter Storm
+1999,Michigan,Winter Storm
+1999,Mississippi,Winter Storm
+1999,Arkansas,Severe Storm/Flooding
+1999,Louisiana,Winter Storm
+1999,Maine,Severe Storm/Flooding
+1999,Tennessee,Severe Storm/Flooding
+1999,Tennessee,Winter Storm
+1999,New York,Winter Storm
+1999,Indiana,Winter Storm
+1999,Alabama,Winter Storm
+1999,Illinois,Winter Storm
+2000,Arkansas,Winter Storm
+2000,North Dakota,Winter Storm
+2000,Arkansas,Winter Storm
+2000,Oklahoma,Winter Storm
+2000,Alabama,Severe Storm/Flooding
+2000,Wyoming,Winter Storm
+2000,Montana,Winter Storm
+2000,New York,Winter Storm
+2000,Oklahoma,Severe Storm/Flooding
+2000,Kentucky,Fire
+2000,Kentucky,Fire
+2000,Tennessee,Fire
+2000,Tennessee,Fire
+2000,Tennessee,Fire
+2000,New Jersey,Other
+2000,Arizona,Severe Storm/Flooding
+2000,Minnesota,Fire
+2000,Michigan,Severe Storm/Flooding
+2000,New York,Other
+2000,Florida,Severe Storm/Flooding
+2000,Florida,Tropical Storm
+2000,Texas,Fire
+2000,Ohio,Severe Storm/Flooding
+2000,Oklahoma,Fire
+2000,Oklahoma,Fire
+2000,Oklahoma,Fire
+2000,Texas,Fire
+2000,Alabama,Fire
+2000,Colorado,Fire
+2000,California,Other
+2000,Louisiana,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Idaho,Fire
+2000,Texas,Fire
+2000,Montana,Fire
+2000,Montana,Fire
+2000,Texas,Fire
+2000,South Dakota,Fire
+2000,Washington,Fire
+2000,Texas,Fire
+2000,Ohio,Severe Storm/Flooding
+2000,New Jersey,Severe Storm/Flooding
+2000,Montana,Fire
+2000,Montana,Fire
+2000,South Dakota,Fire
+2000,Montana,Fire
+2000,Montana,Fire
+2000,Nevada,Fire
+2000,Wyoming,Fire
+2000,Vermont,Severe Storm/Flooding
+2000,Montana,Fire
+2000,Washington,Fire
+2000,New York,Severe Storm/Flooding
+2000,Nevada,Fire
+2000,North Dakota,Severe Storm/Flooding
+2000,Minnesota,Severe Storm/Flooding
+2000,Wisconsin,Severe Storm/Flooding
+2000,New Mexico,Fire
+2000,Colorado,Fire
+2000,Colorado,Fire
+2000,Tennessee,Severe Storm/Flooding
+2000,Florida,Fire
+2000,Florida,Fire
+2000,Florida,Fire
+2000,New Mexico,Fire
+2000,Florida,Fire
+2000,Florida,Fire
+2000,Florida,Fire
+2000,Florida,Fire
+2000,South Dakota,Winter Storm
+2000,Florida,Fire
+2000,Florida,Fire
+2000,New Mexico,Fire
+2000,New Mexico,Fire
+2000,Missouri,Severe Storm/Flooding
+2000,New Mexico,Fire
+2000,New Mexico,Fire
+2000,Kansas,Severe Storm/Flooding
+2000,Maine,Severe Storm/Flooding
+2000,New Mexico,Fire
+2000,Florida,Fire
+2000,Maryland,Winter Storm
+2000,Texas,Severe Storm/Flooding
+2000,Alabama,Severe Storm/Flooding
+2000,Missouri,Fire
+2000,Ohio,Severe Storm/Flooding
+2000,Washington,Fire
+2000,West Virginia,Winter Storm
+2000,Kentucky,Severe Storm/Flooding
+2000,Virginia,Winter Storm
+2000,Alabama,Winter Storm
+2000,Georgia,Severe Storm/Flooding
+2000,Louisiana,Winter Storm
+2000,South Carolina,Winter Storm
+2000,North Carolina,Winter Storm
+2000,Georgia,Winter Storm
+2000,Nevada,Fire
+2000,Kentucky,Severe Storm/Flooding
+2000,Texas,Fire
+2000,Texas,Fire
+2000,Texas,Fire
+2001,New York,Winter Storm
+2001,Mississippi,Severe Storm/Flooding
+2001,Alabama,Severe Storm/Flooding
+2001,Alabama,Fire
+2001,Virginia,Fire
+2001,Virginia,Fire
+2001,Virginia,Fire
+2001,West Virginia,Fire
+2001,West Virginia,Fire
+2001,Tennessee,Fire
+2001,South Carolina,Fire
+2001,Tennessee,Fire
+2001,Kentucky,Fire
+2001,Kentucky,Fire
+2001,Kentucky,Fire
+2001,Colorado,Fire
+2001,Oklahoma,Severe Storm/Flooding
+2001,Nebraska,Severe Storm/Flooding
+2001,Florida,Tropical Storm
+2001,Virginia,Other
+2001,New Jersey,Other
+2001,Virginia,Other
+2001,New York,Other
+2001,Wyoming,Fire
+2001,Ohio,Severe Storm/Flooding
+2001,Utah,Fire
+2001,Oregon,Fire
+2001,Washington,Fire
+2001,Washington,Fire
+2001,Washington,Fire
+2001,Washington,Fire
+2001,Tennessee,Severe Storm/Flooding
+2001,Kentucky,Severe Storm/Flooding
+2001,Oregon,Fire
+2001,Washington,Fire
+2001,Washington,Fire
+2001,Washington,Fire
+2001,Nevada,Fire
+2001,Wyoming,Fire
+2001,South Dakota,Fire
+2001,Washington,Fire
+2001,Wyoming,Fire
+2001,Virginia,Severe Storm/Flooding
+2001,Montana,Severe Storm/Flooding
+2001,Nevada,Fire
+2001,Oklahoma,Severe Storm/Flooding
+2001,Mississippi,Tropical Storm
+2001,Pennsylvania,Tropical Storm
+2001,Florida,Tropical Storm
+2001,Louisiana,Tropical Storm
+2001,Texas,Severe Storm/Flooding
+2001,West Virginia,Severe Storm/Flooding
+2001,New Mexico,Fire
+2001,Montana,Severe Storm/Flooding
+2001,North Dakota,Severe Storm/Flooding
+2001,Georgia,Fire
+2001,Florida,Fire
+2001,South Dakota,Severe Storm/Flooding
+2001,Colorado,Severe Storm/Flooding
+2001,Florida,Fire
+2001,Nebraska,Severe Storm/Flooding
+2001,Maine,Severe Storm/Flooding
+2001,Minnesota,Severe Storm/Flooding
+2001,Florida,Fire
+2001,Wisconsin,Severe Storm/Flooding
+2001,Illinois,Severe Storm/Flooding
+2001,Iowa,Severe Storm/Flooding
+2001,Kansas,Severe Storm/Flooding
+2001,Florida,Fire
+2001,Florida,Fire
+2001,Mississippi,Severe Storm/Flooding
+2001,Florida,Fire
+2001,Vermont,Winter Storm
+2001,Massachusetts,Severe Storm/Flooding
+2001,Massachusetts,Winter Storm
+2001,New Hampshire,Winter Storm
+2001,Maine,Winter Storm
+2001,Florida,Fire
+2001,Arkansas,Severe Storm/Flooding
+2001,Alabama,Severe Storm/Flooding
+2001,Washington,Other
+2001,Mississippi,Severe Storm/Flooding
+2001,Florida,Fire
+2001,Florida,Fire
+2001,Florida,Winter Storm
+2001,Wisconsin,Winter Storm
+2001,Indiana,Winter Storm
+2001,Vermont,Winter Storm
+2001,Illinois,Winter Storm
+2001,Louisiana,Winter Storm
+2001,Michigan,Winter Storm
+2001,Texas,Winter Storm
+2001,Oklahoma,Winter Storm
+2001,Texas,Fire
+2001,Texas,Fire
+2002,North Carolina,Winter Storm
+2002,Ohio,Severe Storm/Flooding
+2002,Alabama,Severe Storm/Flooding
+2002,Mississippi,Severe Storm/Flooding
+2002,Tennessee,Severe Storm/Flooding
+2002,Texas,Severe Storm/Flooding
+2002,Alabama,Tropical Storm
+2002,Louisiana,Tropical Storm
+2002,Mississippi,Tropical Storm
+2002,Louisiana,Tropical Storm
+2002,Texas,Tropical Storm
+2002,Indiana,Severe Storm/Flooding
+2002,California,Fire
+2002,California,Fire
+2002,California,Fire
+2002,North Dakota,Severe Storm/Flooding
+2002,Wisconsin,Severe Storm/Flooding
+2002,California,Fire
+2002,California,Fire
+2002,Wyoming,Fire
+2002,New Mexico,Fire
+2002,South Dakota,Fire
+2002,Colorado,Fire
+2002,California,Fire
+2002,Oregon,Fire
+2002,Oregon,Fire
+2002,Oregon,Fire
+2002,Oregon,Fire
+2002,Washington,Fire
+2002,California,Fire
+2002,Washington,Fire
+2002,Oregon,Fire
+2002,Wisconsin,Severe Storm/Flooding
+2002,Colorado,Fire
+2002,Nevada,Fire
+2002,Oregon,Fire
+2002,Oregon,Fire
+2002,Oregon,Fire
+2002,Colorado,Fire
+2002,Nevada,Fire
+2002,Arizona,Fire
+2002,Arizona,Fire
+2002,Vermont,Severe Storm/Flooding
+2002,Texas,Severe Storm/Flooding
+2002,Nevada,Fire
+2002,Montana,Severe Storm/Flooding
+2002,Wyoming,Fire
+2002,Utah,Fire
+2002,North Dakota,Fire
+2002,South Dakota,Fire
+2002,California,Fire
+2002,Arizona,Fire
+2002,Colorado,Fire
+2002,Colorado,Fire
+2002,Arizona,Fire
+2002,Colorado,Fire
+2002,Iowa,Severe Storm/Flooding
+2002,Arizona,Fire
+2002,Colorado,Fire
+2002,South Carolina,Fire
+2002,Wyoming,Fire
+2002,California,Fire
+2002,Minnesota,Severe Storm/Flooding
+2002,Indiana,Severe Storm/Flooding
+2002,New Mexico,Fire
+2002,Colorado,Fire
+2002,Colorado,Fire
+2002,Nevada,Fire
+2002,Colorado,Fire
+2002,Colorado,Fire
+2002,Colorado,Fire
+2002,California,Fire
+2002,New Mexico,Fire
+2002,New Mexico,Fire
+2002,New Mexico,Fire
+2002,Colorado,Fire
+2002,Colorado,Fire
+2002,Colorado,Fire
+2002,New Jersey,Fire
+2002,Minnesota,Fire
+2002,New Mexico,Fire
+2002,Colorado,Fire
+2002,Illinois,Severe Storm/Flooding
+2002,New York,Other
+2002,Arizona,Fire
+2002,California,Fire
+2002,Kentucky,Severe Storm/Flooding
+2002,New Mexico,Fire
+2002,Michigan,Severe Storm/Flooding
+2002,Missouri,Severe Storm/Flooding
+2002,Colorado,Fire
+2002,West Virginia,Severe Storm/Flooding
+2002,Virginia,Severe Storm/Flooding
+2002,New Mexico,Fire
+2002,Maryland,Severe Storm/Flooding
+2002,Colorado,Fire
+2002,Arizona,Fire
+2002,Colorado,Fire
+2002,Tennessee,Severe Storm/Flooding
+2002,Kentucky,Severe Storm/Flooding
+2002,Virginia,Severe Storm/Flooding
+2002,New Mexico,Fire
+2002,Oregon,Winter Storm
+2002,New York,Winter Storm
+2002,Virginia,Fire
+2002,California,Fire
+2002,Missouri,Winter Storm
+2002,Kansas,Winter Storm
+2002,Oklahoma,Winter Storm
+2002,Arkansas,Severe Storm/Flooding
+2003,Virginia,Severe Storm/Flooding
+2003,West Virginia,Severe Storm/Flooding
+2003,Wyoming,Fire
+2003,South Dakota,Fire
+2003,Colorado,Fire
+2003,Washington,Severe Storm/Flooding
+2003,Colorado,Fire
+2003,Colorado,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,California,Fire
+2003,Nevada,Fire
+2003,Pennsylvania,Tropical Storm
+2003,Ohio,Other
+2003,New Jersey,Other
+2003,West Virginia,Tropical Storm
+2003,Michigan,Other
+2003,Delaware,Tropical Storm
+2003,Delaware,Tropical Storm
+2003,Maryland,Tropical Storm
+2003,North Carolina,Tropical Storm
+2003,Virginia,Tropical Storm
+2003,New Hampshire,Severe Storm/Flooding
+2003,Vermont,Severe Storm/Flooding
+2003,Washington,Fire
+2003,Oregon,Fire
+2003,California,Fire
+2003,Indiana,Severe Storm/Flooding
+2003,Oregon,Fire
+2003,New York,Severe Storm/Flooding
+2003,New York,Other
+2003,Pennsylvania,Severe Storm/Flooding
+2003,Montana,Fire
+2003,Oregon,Fire
+2003,Montana,Fire
+2003,California,Fire
+2003,Montana,Fire
+2003,Montana,Fire
+2003,Montana,Fire
+2003,Ohio,Severe Storm/Flooding
+2003,North Dakota,Severe Storm/Flooding
+2003,Tennessee,Severe Storm/Flooding
+2003,Florida,Severe Storm/Flooding
+2003,California,Fire
+2003,Colorado,Fire
+2003,Montana,Fire
+2003,Montana,Fire
+2003,Montana,Fire
+2003,Oklahoma,Fire
+2003,Nebraska,Severe Storm/Flooding
+2003,Texas,Tropical Storm
+2003,Washington,Fire
+2003,Ohio,Severe Storm/Flooding
+2003,Nevada,Fire
+2003,Utah,Fire
+2003,Arizona,Fire
+2003,Arizona,Fire
+2003,Washington,Fire
+2003,Indiana,Severe Storm/Flooding
+2003,Nevada,Fire
+2003,California,Fire
+2003,Kentucky,Severe Storm/Flooding
+2003,California,Fire
+2003,California,Fire
+2003,New Mexico,Fire
+2003,West Virginia,Severe Storm/Flooding
+2003,Arizona,Fire
+2003,Arizona,Fire
+2003,Nevada,Fire
+2003,Arkansas,Severe Storm/Flooding
+2003,Kentucky,Severe Storm/Flooding
+2003,Mississippi,Severe Storm/Flooding
+2003,Illinois,Severe Storm/Flooding
+2003,Maine,Winter Storm
+2003,New York,Winter Storm
+2003,Alabama,Severe Storm/Flooding
+2003,Oklahoma,Severe Storm/Flooding
+2003,New Mexico,Fire
+2003,Tennessee,Severe Storm/Flooding
+2003,Missouri,Severe Storm/Flooding
+2003,Kansas,Severe Storm/Flooding
+2003,Florida,Severe Storm/Flooding
+2003,Mississippi,Severe Storm/Flooding
+2003,Colorado,Winter Storm
+2003,Virginia,Winter Storm
+2003,New York,Winter Storm
+2003,North Carolina,Winter Storm
+2003,Rhode Island,Winter Storm
+2003,New Jersey,Winter Storm
+2003,Delaware,Winter Storm
+2003,Tennessee,Severe Storm/Flooding
+2003,Ohio,Winter Storm
+2003,Pennsylvania,Winter Storm
+2003,West Virginia,Winter Storm
+2003,Maryland,Winter Storm
+2003,Kentucky,Winter Storm
+2003,Maine,Winter Storm
+2003,Connecticut,Winter Storm
+2003,Massachusetts,Winter Storm
+2003,New Hampshire,Winter Storm
+2003,New York,Winter Storm
+2003,Oklahoma,Winter Storm
+2003,Louisiana,Other
+2003,Texas,Other
+2003,South Carolina,Winter Storm
+2003,California,Fire
+2003,Arkansas,Winter Storm
+2004,Delaware,Tropical Storm
+2004,Virginia,Tropical Storm
+2004,Minnesota,Severe Storm/Flooding
+2004,Tennessee,Severe Storm/Flooding
+2004,South Carolina,Tropical Storm
+2004,New York,Severe Storm/Flooding
+2004,New Jersey,Tropical Storm
+2004,New York,Tropical Storm
+2004,Kansas,Severe Storm/Flooding
+2004,Florida,Tropical Storm
+2004,Georgia,Tropical Storm
+2004,Vermont,Severe Storm/Flooding
+2004,West Virginia,Severe Storm/Flooding
+2004,Ohio,Severe Storm/Flooding
+2004,Pennsylvania,Tropical Storm
+2004,Pennsylvania,Tropical Storm
+2004,Georgia,Tropical Storm
+2004,North Carolina,Tropical Storm
+2004,Florida,Tropical Storm
+2004,Mississippi,Tropical Storm
+2004,Louisiana,Tropical Storm
+2004,South Carolina,Tropical Storm
+2004,Alabama,Tropical Storm
+2004,California,Fire
+2004,North Carolina,Tropical Storm
+2004,California,Fire
+2004,Florida,Tropical Storm
+2004,Virginia,Tropical Storm
+2004,California,Fire
+2004,California,Fire
+2004,South Carolina,Tropical Storm
+2004,Indiana,Severe Storm/Flooding
+2004,Nevada,Fire
+2004,Nevada,Fire
+2004,Oregon,Fire
+2004,California,Fire
+2004,California,Fire
+2004,Florida,Tropical Storm
+2004,Washington,Fire
+2004,California,Fire
+2004,California,Fire
+2004,Washington,Fire
+2004,California,Fire
+2004,California,Fire
+2004,West Virginia,Severe Storm/Flooding
+2004,Pennsylvania,Severe Storm/Flooding
+2004,Kentucky,Severe Storm/Flooding
+2004,Oregon,Fire
+2004,Kansas,Severe Storm/Flooding
+2004,New York,Severe Storm/Flooding
+2004,Washington,Fire
+2004,Washington,Fire
+2004,Nevada,Fire
+2004,California,Fire
+2004,South Dakota,Severe Storm/Flooding
+2004,California,Fire
+2004,California,Fire
+2004,New Jersey,Severe Storm/Flooding
+2004,California,Fire
+2004,California,Fire
+2004,Nevada,Fire
+2004,California,Fire
+2004,California,Fire
+2004,Washington,Fire
+2004,Colorado,Fire
+2004,Michigan,Severe Storm/Flooding
+2004,California,Severe Storm/Flooding
+2004,Arkansas,Severe Storm/Flooding
+2004,Nevada,Fire
+2004,Arizona,Fire
+2004,New Mexico,Fire
+2004,Wisconsin,Severe Storm/Flooding
+2004,Utah,Fire
+2004,Virginia,Severe Storm/Flooding
+2004,Missouri,Severe Storm/Flooding
+2004,Kentucky,Severe Storm/Flooding
+2004,Arizona,Fire
+2004,Louisiana,Severe Storm/Flooding
+2004,West Virginia,Severe Storm/Flooding
+2004,California,Fire
+2004,Indiana,Severe Storm/Flooding
+2004,Ohio,Severe Storm/Flooding
+2004,New Mexico,Fire
+2004,Iowa,Severe Storm/Flooding
+2004,Nebraska,Severe Storm/Flooding
+2004,Arkansas,Severe Storm/Flooding
+2004,North Dakota,Severe Storm/Flooding
+2004,California,Fire
+2004,California,Fire
+2004,New Mexico,Severe Storm/Flooding
+2004,California,Fire
+2004,Illinois,Severe Storm/Flooding
+2004,Massachusetts,Severe Storm/Flooding
+2004,North Dakota,Winter Storm
+2004,Colorado,Fire
+2004,New York,Winter Storm
+2004,Oregon,Winter Storm
+2004,South Carolina,Winter Storm
+2004,Maine,Winter Storm
+2004,Ohio,Severe Storm/Flooding
+2004,Maine,Winter Storm
+2004,Maine,Winter Storm
+2004,Connecticut,Winter Storm
+2004,New Hampshire,Winter Storm
+2004,Massachusetts,Winter Storm
+2004,California,Other
+2005,Oklahoma,Fire
+2005,Texas,Fire
+2005,Oklahoma,Fire
+2005,Oklahoma,Fire
+2005,Texas,Fire
+2005,South Dakota,Winter Storm
+2005,Connecticut,Severe Storm/Flooding
+2005,Oklahoma,Fire
+2005,Kentucky,Severe Storm/Flooding
+2005,Oklahoma,Fire
+2005,Oklahoma,Fire
+2005,Oklahoma,Fire
+2005,North Dakota,Winter Storm
+2005,California,Fire
+2005,Kansas,Severe Storm/Flooding
+2005,Massachusetts,Severe Storm/Flooding
+2005,Indiana,Severe Storm/Flooding
+2005,New Hampshire,Severe Storm/Flooding
+2005,Florida,Tropical Storm
+2005,Massachusetts,Severe Storm/Flooding
+2005,North Carolina,Tropical Storm
+2005,California,Fire
+2005,California,Fire
+2005,New York,Tropical Storm
+2005,Delaware,Tropical Storm
+2005,California,Fire
+2005,Texas,Tropical Storm
+2005,Louisiana,Tropical Storm
+2005,Texas,Tropical Storm
+2005,Louisiana,Tropical Storm
+2005,Florida,Tropical Storm
+2005,New Hampshire,Tropical Storm
+2005,Maine,Tropical Storm
+2005,Rhode Island,Tropical Storm
+2005,New Jersey,Tropical Storm
+2005,North Carolina,Tropical Storm
+2005,Nebraska,Tropical Storm
+2005,Wisconsin,Tropical Storm
+2005,Minnesota,Tropical Storm
+2005,Ohio,Tropical Storm
+2005,Idaho,Tropical Storm
+2005,Connecticut,Tropical Storm
+2005,Massachusetts,Tropical Storm
+2005,Maryland,Tropical Storm
+2005,Nevada,Tropical Storm
+2005,Montana,Tropical Storm
+2005,North Dakota,Tropical Storm
+2005,California,Tropical Storm
+2005,Arizona,Tropical Storm
+2005,Virginia,Tropical Storm
+2005,Indiana,Tropical Storm
+2005,Alabama,Tropical Storm
+2005,Iowa,Tropical Storm
+2005,Kansas,Tropical Storm
+2005,South Carolina,Tropical Storm
+2005,Pennsylvania,Tropical Storm
+2005,South Dakota,Tropical Storm
+2005,Missouri,Tropical Storm
+2005,Kentucky,Tropical Storm
+2005,Illinois,Tropical Storm
+2005,New Mexico,Tropical Storm
+2005,Michigan,Tropical Storm
+2005,Oregon,Tropical Storm
+2005,Washington,Tropical Storm
+2005,Florida,Tropical Storm
+2005,North Carolina,Tropical Storm
+2005,Colorado,Tropical Storm
+2005,Tennessee,Tropical Storm
+2005,Oklahoma,Tropical Storm
+2005,Georgia,Tropical Storm
+2005,California,Fire
+2005,Utah,Tropical Storm
+2005,West Virginia,Tropical Storm
+2005,Texas,Tropical Storm
+2005,Arkansas,Tropical Storm
+2005,Nevada,Fire
+2005,Alabama,Tropical Storm
+2005,Mississippi,Tropical Storm
+2005,Louisiana,Tropical Storm
+2005,Florida,Tropical Storm
+2005,Alabama,Tropical Storm
+2005,Mississippi,Tropical Storm
+2005,Louisiana,Tropical Storm
+2005,California,Fire
+2005,Oregon,Fire
+2005,Kansas,Severe Storm/Flooding
+2005,Louisiana,Tropical Storm
+2005,Nevada,Fire
+2005,Wyoming,Severe Storm/Flooding
+2005,Washington,Fire
+2005,Washington,Fire
+2005,Utah,Severe Storm/Flooding
+2005,California,Fire
+2005,North Dakota,Severe Storm/Flooding
+2005,Arizona,Fire
+2005,South Dakota,Severe Storm/Flooding
+2005,Nevada,Fire
+2005,South Dakota,Fire
+2005,Nevada,Fire
+2005,Florida,Tropical Storm
+2005,Colorado,Fire
+2005,Mississippi,Tropical Storm
+2005,South Dakota,Fire
+2005,Alabama,Tropical Storm
+2005,Idaho,Severe Storm/Flooding
+2005,Maine,Winter Storm
+2005,Utah,Fire
+2005,Nevada,Fire
+2005,Nebraska,Severe Storm/Flooding
+2005,Arizona,Fire
+2005,Arizona,Fire
+2005,Arizona,Fire
+2005,Arizona,Fire
+2005,Arizona,Fire
+2005,New Hampshire,Winter Storm
+2005,Maine,Winter Storm
+2005,New York,Severe Storm/Flooding
+2005,New Jersey,Severe Storm/Flooding
+2005,South Dakota,Fire
+2005,Pennsylvania,Severe Storm/Flooding
+2005,Arizona,Severe Storm/Flooding
+2005,California,Severe Storm/Flooding
+2005,Maine,Winter Storm
+2005,New Hampshire,Winter Storm
+2005,New Hampshire,Winter Storm
+2005,Maine,Winter Storm
+2005,Maine,Winter Storm
+2005,Nevada,Severe Storm/Flooding
+2005,Nevada,Winter Storm
+2005,Massachusetts,Winter Storm
+2005,Arizona,Severe Storm/Flooding
+2005,Connecticut,Winter Storm
+2005,Rhode Island,Winter Storm
+2005,Nevada,Winter Storm
+2005,Ohio,Winter Storm
+2005,Kansas,Winter Storm
+2005,Kentucky,Winter Storm
+2005,California,Severe Storm/Flooding
+2005,Utah,Severe Storm/Flooding
+2005,Illinois,Winter Storm
+2005,West Virginia,Severe Storm/Flooding
+2005,Indiana,Winter Storm
+2005,Indiana,Winter Storm
+2005,Ohio,Winter Storm
+2006,Illinois,Winter Storm
+2006,Missouri,Winter Storm
+2006,Oregon,Severe Storm/Flooding
+2006,Washington,Severe Storm/Flooding
+2006,New York,Severe Storm/Flooding
+2006,California,Fire
+2006,Texas,Fire
+2006,Nevada,Fire
+2006,Louisiana,Severe Storm/Flooding
+2006,Missouri,Severe Storm/Flooding
+2006,California,Fire
+2006,New York,Severe Storm/Flooding
+2006,New York,Winter Storm
+2006,Indiana,Severe Storm/Flooding
+2006,California,Fire
+2006,Virginia,Tropical Storm
+2006,California,Fire
+2006,Texas,Fire
+2006,Washington,Fire
+2006,Arizona,Severe Storm/Flooding
+2006,Colorado,Fire
+2006,Montana,Fire
+2006,New Mexico,Severe Storm/Flooding
+2006,Nevada,Fire
+2006,Washington,Fire
+2006,Montana,Fire
+2006,Texas,Fire
+2006,Texas,Fire
+2006,Texas,Severe Storm/Flooding
+2006,Wyoming,Fire
+2006,Nevada,Fire
+2006,Washington,Fire
+2006,Ohio,Severe Storm/Flooding
+2006,California,Fire
+2006,Nebraska,Fire
+2006,Nebraska,Fire
+2006,South Dakota,Fire
+2006,Oregon,Fire
+2006,Oregon,Fire
+2006,California,Fire
+2006,Missouri,Severe Storm/Flooding
+2006,Nebraska,Fire
+2006,Wyoming,Fire
+2006,Virginia,Severe Storm/Flooding
+2006,California,Fire
+2006,Montana,Fire
+2006,New Jersey,Severe Storm/Flooding
+2006,Delaware,Severe Storm/Flooding
+2006,Ohio,Severe Storm/Flooding
+2006,Maryland,Severe Storm/Flooding
+2006,New York,Severe Storm/Flooding
+2006,Pennsylvania,Severe Storm/Flooding
+2006,Texas,Fire
+2006,Nevada,Fire
+2006,Nevada,Fire
+2006,Nevada,Fire
+2006,New Mexico,Fire
+2006,Colorado,Fire
+2006,Arizona,Fire
+2006,New Mexico,Fire
+2006,Arizona,Fire
+2006,Arizona,Fire
+2006,South Dakota,Winter Storm
+2006,Minnesota,Severe Storm/Flooding
+2006,California,Severe Storm/Flooding
+2006,North Dakota,Severe Storm/Flooding
+2006,Arizona,Fire
+2006,Texas,Fire
+2006,Maine,Severe Storm/Flooding
+2006,New Hampshire,Severe Storm/Flooding
+2006,Massachusetts,Severe Storm/Flooding
+2006,Washington,Severe Storm/Flooding
+2006,Florida,Fire
+2006,Connecticut,Winter Storm
+2006,Virginia,Fire
+2006,Kansas,Severe Storm/Flooding
+2006,Oklahoma,Severe Storm/Flooding
+2006,Arkansas,Severe Storm/Flooding
+2006,New Mexico,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Missouri,Severe Storm/Flooding
+2006,Tennessee,Severe Storm/Flooding
+2006,Kansas,Fire
+2006,Illinois,Severe Storm/Flooding
+2006,Oregon,Severe Storm/Flooding
+2006,Missouri,Severe Storm/Flooding
+2006,New Mexico,Fire
+2006,Idaho,Severe Storm/Flooding
+2006,Maine,Winter Storm
+2006,California,Fire
+2006,Texas,Fire
+2006,California,Severe Storm/Flooding
+2006,Nevada,Severe Storm/Flooding
+2006,Nebraska,Winter Storm
+2006,Kansas,Winter Storm
+2006,South Carolina,Winter Storm
+2006,Texas,Fire
+2006,Oklahoma,Fire
+2006,Texas,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Texas,Fire
+2006,Texas,Fire
+2006,Oklahoma,Fire
+2006,Texas,Fire
+2006,Texas,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Texas,Fire
+2006,Colorado,Fire
+2006,Oklahoma,Fire
+2006,Texas,Fire
+2006,Texas,Fire
+2006,Texas,Fire
+2006,Texas,Fire
+2006,Minnesota,Winter Storm
+2006,North Dakota,Winter Storm
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,New Mexico,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Oklahoma,Fire
+2006,Texas,Fire
+2006,Texas,Fire
+2007,Missouri,Winter Storm
+2007,Oklahoma,Winter Storm
+2007,Missouri,Winter Storm
+2007,Kansas,Winter Storm
+2007,Oklahoma,Winter Storm
+2007,Washington,Severe Storm/Flooding
+2007,Oregon,Severe Storm/Flooding
+2007,Indiana,Severe Storm/Flooding
+2007,New Mexico,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,California,Fire
+2007,Texas,Tropical Storm
+2007,Illinois,Severe Storm/Flooding
+2007,Missouri,Severe Storm/Flooding
+2007,Washington,Fire
+2007,Montana,Fire
+2007,California,Fire
+2007,California,Fire
+2007,Iowa,Severe Storm/Flooding
+2007,North Dakota,Severe Storm/Flooding
+2007,North Dakota,Severe Storm/Flooding
+2007,Oregon,Fire
+2007,Oklahoma,Severe Storm/Flooding
+2007,New York,Severe Storm/Flooding
+2007,Idaho,Fire
+2007,Idaho,Fire
+2007,Illinois,Severe Storm/Flooding
+2007,Nebraska,Severe Storm/Flooding
+2007,Idaho,Fire
+2007,Ohio,Severe Storm/Flooding
+2007,Wisconsin,Severe Storm/Flooding
+2007,Oklahoma,Severe Storm/Flooding
+2007,Minnesota,Severe Storm/Flooding
+2007,Minnesota,Other
+2007,Montana,Fire
+2007,Texas,Tropical Storm
+2007,Montana,Fire
+2007,Wyoming,Fire
+2007,Maine,Severe Storm/Flooding
+2007,Montana,Fire
+2007,Vermont,Severe Storm/Flooding
+2007,Nebraska,Severe Storm/Flooding
+2007,Nevada,Fire
+2007,South Dakota,Fire
+2007,Utah,Fire
+2007,North Dakota,Severe Storm/Flooding
+2007,Nevada,Fire
+2007,Washington,Fire
+2007,Oregon,Fire
+2007,South Dakota,Fire
+2007,Nevada,Fire
+2007,Washington,Fire
+2007,California,Fire
+2007,California,Fire
+2007,Oklahoma,Severe Storm/Flooding
+2007,Utah,Fire
+2007,Nevada,Fire
+2007,Nevada,Fire
+2007,New York,Severe Storm/Flooding
+2007,Kansas,Severe Storm/Flooding
+2007,Utah,Fire
+2007,Texas,Severe Storm/Flooding
+2007,California,Fire
+2007,Florida,Fire
+2007,California,Fire
+2007,Colorado,Fire
+2007,Missouri,Severe Storm/Flooding
+2007,Oklahoma,Severe Storm/Flooding
+2007,Nebraska,Severe Storm/Flooding
+2007,Georgia,Fire
+2007,Kentucky,Severe Storm/Flooding
+2007,Iowa,Severe Storm/Flooding
+2007,Rhode Island,Severe Storm/Flooding
+2007,South Dakota,Severe Storm/Flooding
+2007,Massachusetts,Severe Storm/Flooding
+2007,New Jersey,Fire
+2007,Connecticut,Severe Storm/Flooding
+2007,California,Fire
+2007,California,Fire
+2007,Florida,Fire
+2007,Georgia,Fire
+2007,Florida,Fire
+2007,Florida,Fire
+2007,Kansas,Severe Storm/Flooding
+2007,Georgia,Fire
+2007,Vermont,Severe Storm/Flooding
+2007,Florida,Fire
+2007,Texas,Severe Storm/Flooding
+2007,West Virginia,Severe Storm/Flooding
+2007,New Hampshire,Severe Storm/Flooding
+2007,Georgia,Fire
+2007,New Jersey,Severe Storm/Flooding
+2007,Maine,Severe Storm/Flooding
+2007,New York,Severe Storm/Flooding
+2007,Maine,Severe Storm/Flooding
+2007,Georgia,Fire
+2007,New Mexico,Severe Storm/Flooding
+2007,Iowa,Winter Storm
+2007,Florida,Fire
+2007,Iowa,Winter Storm
+2007,California,Winter Storm
+2007,Indiana,Winter Storm
+2007,California,Fire
+2007,Georgia,Severe Storm/Flooding
+2007,Alabama,Severe Storm/Flooding
+2007,New Mexico,Fire
+2007,Louisiana,Severe Storm/Flooding
+2007,New York,Winter Storm
+2007,Pennsylvania,Severe Storm/Flooding
+2007,Oregon,Winter Storm
+2007,Washington,Winter Storm
+2007,Illinois,Winter Storm
+2007,Florida,Severe Storm/Flooding
+2007,Florida,Severe Storm/Flooding
+2007,Oklahoma,Winter Storm
+2007,Oklahoma,Winter Storm
+2007,Missouri,Winter Storm
+2007,Oklahoma,Winter Storm
+2007,Nebraska,Winter Storm
+2007,Kansas,Winter Storm
+2007,Colorado,Winter Storm
+2007,Colorado,Winter Storm
+2008,New York,Winter Storm
+2008,Maine,Winter Storm
+2008,Massachusetts,Winter Storm
+2008,New Hampshire,Winter Storm
+2008,South Dakota,Winter Storm
+2008,California,Fire
+2008,California,Fire
+2008,California,Fire
+2008,California,Fire
+2008,Missouri,Severe Storm/Flooding
+2008,Kansas,Severe Storm/Flooding
+2008,Florida,Tropical Storm
+2008,Ohio,Tropical Storm
+2008,Arkansas,Tropical Storm
+2008,California,Fire
+2008,California,Fire
+2008,Oklahoma,Severe Storm/Flooding
+2008,Kentucky,Tropical Storm
+2008,North Carolina,Tropical Storm
+2008,Illinois,Severe Storm/Flooding
+2008,New Hampshire,Severe Storm/Flooding
+2008,Alabama,Tropical Storm
+2008,Indiana,Severe Storm/Flooding
+2008,Mississippi,Tropical Storm
+2008,Arkansas,Tropical Storm
+2008,Oregon,Fire
+2008,Texas,Tropical Storm
+2008,Louisiana,Tropical Storm
+2008,Vermont,Severe Storm/Flooding
+2008,Louisiana,Tropical Storm
+2008,Texas,Tropical Storm
+2008,Alabama,Tropical Storm
+2008,Maine,Severe Storm/Flooding
+2008,Florida,Tropical Storm
+2008,New Hampshire,Severe Storm/Flooding
+2008,Louisiana,Tropical Storm
+2008,California,Fire
+2008,Mississippi,Tropical Storm
+2008,Alabama,Tropical Storm
+2008,Texas,Tropical Storm
+2008,Louisiana,Tropical Storm
+2008,Florida,Tropical Storm
+2008,Florida,Tropical Storm
+2008,Vermont,Severe Storm/Flooding
+2008,New Mexico,Severe Storm/Flooding
+2008,New Hampshire,Severe Storm/Flooding
+2008,Texas,Fire
+2008,Idaho,Severe Storm/Flooding
+2008,Texas,Tropical Storm
+2008,Nebraska,Severe Storm/Flooding
+2008,Vermont,Severe Storm/Flooding
+2008,Michigan,Severe Storm/Flooding
+2008,Washington,Fire
+2008,Washington,Fire
+2008,Oklahoma,Severe Storm/Flooding
+2008,Kansas,Severe Storm/Flooding
+2008,South Dakota,Severe Storm/Flooding
+2008,California,Fire
+2008,California,Fire
+2008,California,Fire
+2008,Arizona,Fire
+2008,California,Fire
+2008,Colorado,Fire
+2008,Missouri,Severe Storm/Flooding
+2008,New Mexico,Fire
+2008,Minnesota,Severe Storm/Flooding
+2008,Illinois,Severe Storm/Flooding
+2008,California,Fire
+2008,Nebraska,Severe Storm/Flooding
+2008,California,Fire
+2008,West Virginia,Severe Storm/Flooding
+2008,Texas,Fire
+2008,Wisconsin,Severe Storm/Flooding
+2008,Montana,Winter Storm
+2008,North Carolina,Fire
+2008,California,Fire
+2008,California,Fire
+2008,California,Fire
+2008,Indiana,Severe Storm/Flooding
+2008,Oklahoma,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Nebraska,Severe Storm/Flooding
+2008,Mississippi,Severe Storm/Flooding
+2008,Iowa,Severe Storm/Flooding
+2008,Colorado,Severe Storm/Flooding
+2008,Georgia,Severe Storm/Flooding
+2008,Missouri,Severe Storm/Flooding
+2008,California,Fire
+2008,South Dakota,Winter Storm
+2008,Arkansas,Severe Storm/Flooding
+2008,Kentucky,Severe Storm/Flooding
+2008,Oklahoma,Severe Storm/Flooding
+2008,Florida,Fire
+2008,Oklahoma,Severe Storm/Flooding
+2008,Maine,Severe Storm/Flooding
+2008,Mississippi,Severe Storm/Flooding
+2008,Oklahoma,Severe Storm/Flooding
+2008,Texas,Fire
+2008,California,Fire
+2008,Ohio,Winter Storm
+2008,New Mexico,Fire
+2008,Texas,Fire
+2008,Colorado,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Arkansas,Severe Storm/Flooding
+2008,Oklahoma,Fire
+2008,Georgia,Severe Storm/Flooding
+2008,Wisconsin,Winter Storm
+2008,Texas,Fire
+2008,Missouri,Severe Storm/Flooding
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Illinois,Winter Storm
+2008,Missouri,Winter Storm
+2008,Texas,Fire
+2008,Illinois,Severe Storm/Flooding
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Oklahoma,Fire
+2008,Texas,Fire
+2008,Kentucky,Severe Storm/Flooding
+2008,Texas,Fire
+2008,Texas,Fire
+2008,Tennessee,Severe Storm/Flooding
+2008,Arkansas,Severe Storm/Flooding
+2008,Missouri,Severe Storm/Flooding
+2008,Kansas,Winter Storm
+2008,Indiana,Severe Storm/Flooding
+2008,Nebraska,Winter Storm
+2008,Nevada,Winter Storm
+2008,Iowa,Winter Storm
+2009,Alabama,Severe Storm/Flooding
+2009,New York,Tropical Storm
+2009,Kansas,Winter Storm
+2009,Alabama,Tropical Storm
+2009,New Jersey,Tropical Storm
+2009,Nebraska,Winter Storm
+2009,Louisiana,Severe Storm/Flooding
+2009,Virginia,Tropical Storm
+2009,Arkansas,Severe Storm/Flooding
+2009,California,Fire
+2009,Arizona,Fire
+2009,Kansas,Severe Storm/Flooding
+2009,Georgia,Severe Storm/Flooding
+2009,Oregon,Fire
+2009,California,Fire
+2009,Montana,Fire
+2009,New York,Severe Storm/Flooding
+2009,California,Fire
+2009,California,Fire
+2009,California,Fire
+2009,Arizona,Fire
+2009,Utah,Fire
+2009,California,Fire
+2009,Oregon,Fire
+2009,California,Fire
+2009,Washington,Fire
+2009,Washington,Fire
+2009,Tennessee,Severe Storm/Flooding
+2009,California,Fire
+2009,Kentucky,Severe Storm/Flooding
+2009,California,Fire
+2009,Iowa,Severe Storm/Flooding
+2009,Nebraska,Severe Storm/Flooding
+2009,Maine,Severe Storm/Flooding
+2009,Washington,Fire
+2009,Nevada,Fire
+2009,Tennessee,Severe Storm/Flooding
+2009,Illinois,Severe Storm/Flooding
+2009,Kansas,Severe Storm/Flooding
+2009,Kansas,Winter Storm
+2009,Oklahoma,Winter Storm
+2009,Missouri,Severe Storm/Flooding
+2009,Oklahoma,Fire
+2009,South Dakota,Severe Storm/Flooding
+2009,Arkansas,Severe Storm/Flooding
+2009,Alabama,Severe Storm/Flooding
+2009,Kentucky,Severe Storm/Flooding
+2009,Florida,Severe Storm/Flooding
+2009,Arizona,Fire
+2009,West Virginia,Severe Storm/Flooding
+2009,Tennessee,Severe Storm/Flooding
+2009,Florida,Fire
+2009,Mississippi,Severe Storm/Flooding
+2009,Alabama,Severe Storm/Flooding
+2009,New Mexico,Fire
+2009,California,Fire
+2009,Alabama,Severe Storm/Flooding
+2009,Arkansas,Severe Storm/Flooding
+2009,South Carolina,Fire
+2009,Georgia,Severe Storm/Flooding
+2009,Indiana,Severe Storm/Flooding
+2009,Florida,Severe Storm/Flooding
+2009,Texas,Fire
+2009,Texas,Fire
+2009,Oklahoma,Fire
+2009,Oklahoma,Fire
+2009,Texas,Fire
+2009,Texas,Fire
+2009,Oklahoma,Fire
+2009,Texas,Fire
+2009,Oklahoma,Fire
+2009,Texas,Fire
+2009,Oklahoma,Fire
+2009,Minnesota,Severe Storm/Flooding
+2009,Texas,Fire
+2009,Texas,Fire
+2009,Texas,Fire
+2009,Texas,Fire
+2009,Minnesota,Severe Storm/Flooding
+2009,North Dakota,Severe Storm/Flooding
+2009,Texas,Fire
+2009,Indiana,Winter Storm
+2009,Oklahoma,Fire
+2009,Texas,Fire
+2009,New York,Winter Storm
+2009,Texas,Fire
+2009,Oregon,Winter Storm
+2009,Washington,Winter Storm
+2009,Illinois,Winter Storm
+2009,Texas,Fire
+2009,Texas,Fire
+2009,Texas,Fire
+2009,Missouri,Winter Storm
+2009,Tennessee,Winter Storm
+2009,Oklahoma,Winter Storm
+2009,Oklahoma,Severe Storm/Flooding
+2009,Arkansas,Winter Storm
+2009,Kentucky,Winter Storm
+2009,Missouri,Winter Storm
+2009,Washington,Winter Storm
+2009,Kentucky,Winter Storm
+2009,Arkansas,Winter Storm
+2009,Vermont,Winter Storm
+2009,Maine,Winter Storm
+2009,Colorado,Fire
+2009,Massachusetts,Winter Storm
+2009,New Hampshire,Winter Storm
+2010,Vermont,Severe Storm/Flooding
+2010,Arizona,Severe Storm/Flooding
+2010,South Dakota,Severe Storm/Flooding
+2010,Wisconsin,Severe Storm/Flooding
+2010,Nebraska,Severe Storm/Flooding
+2010,New York,Severe Storm/Flooding
+2010,North Carolina,Tropical Storm
+2010,Minnesota,Severe Storm/Flooding
+2010,Arizona,Severe Storm/Flooding
+2010,South Dakota,Severe Storm/Flooding
+2010,Utah,Fire
+2010,Tennessee,Severe Storm/Flooding
+2010,California,Fire
+2010,New Mexico,Severe Storm/Flooding
+2010,Colorado,Fire
+2010,California,Fire
+2010,Colorado,Fire
+2010,Massachusetts,Tropical Storm
+2010,North Carolina,Tropical Storm
+2010,Washington,Fire
+2010,Idaho,Fire
+2010,California,Fire
+2010,Illinois,Severe Storm/Flooding
+2010,Missouri,Severe Storm/Flooding
+2010,Wisconsin,Severe Storm/Flooding
+2010,Kansas,Severe Storm/Flooding
+2010,Texas,Tropical Storm
+2010,California,Fire
+2010,Iowa,Severe Storm/Flooding
+2010,South Dakota,Severe Storm/Flooding
+2010,California,Fire
+2010,Idaho,Severe Storm/Flooding
+2010,California,Fire
+2010,Iowa,Severe Storm/Flooding
+2010,Oklahoma,Severe Storm/Flooding
+2010,Kentucky,Severe Storm/Flooding
+2010,Washington,Fire
+2010,Nebraska,Severe Storm/Flooding
+2010,Wyoming,Severe Storm/Flooding
+2010,Montana,Severe Storm/Flooding
+2010,Minnesota,Severe Storm/Flooding
+2010,Nevada,Fire
+2010,Maine,Severe Storm/Flooding
+2010,Texas,Tropical Storm
+2010,West Virginia,Severe Storm/Flooding
+2010,Arizona,Fire
+2010,Arizona,Fire
+2010,New Mexico,Fire
+2010,Oklahoma,Severe Storm/Flooding
+2010,New Mexico,Fire
+2010,Mississippi,Severe Storm/Flooding
+2010,South Dakota,Severe Storm/Flooding
+2010,South Dakota,Winter Storm
+2010,New Hampshire,Severe Storm/Flooding
+2010,Kentucky,Severe Storm/Flooding
+2010,California,Other
+2010,Maryland,Winter Storm
+2010,Tennessee,Severe Storm/Flooding
+2010,Massachusetts,Other
+2010,Alabama,Severe Storm/Flooding
+2010,North Dakota,Severe Storm/Flooding
+2010,Mississippi,Severe Storm/Flooding
+2010,Virginia,Winter Storm
+2010,Connecticut,Severe Storm/Flooding
+2010,West Virginia,Winter Storm
+2010,North Dakota,Winter Storm
+2010,Nebraska,Winter Storm
+2010,Minnesota,Severe Storm/Flooding
+2010,New York,Severe Storm/Flooding
+2010,Pennsylvania,Winter Storm
+2010,New Jersey,Severe Storm/Flooding
+2010,Delaware,Winter Storm
+2010,Rhode Island,Severe Storm/Flooding
+2010,West Virginia,Severe Storm/Flooding
+2010,New Hampshire,Winter Storm
+2010,Massachusetts,Severe Storm/Flooding
+2010,Rhode Island,Severe Storm/Flooding
+2010,Maine,Winter Storm
+2010,New Jersey,Winter Storm
+2010,Minnesota,Severe Storm/Flooding
+2010,Arizona,Winter Storm
+2010,North Dakota,Severe Storm/Flooding
+2010,South Dakota,Winter Storm
+2010,Kansas,Winter Storm
+2010,South Dakota,Winter Storm
+2010,California,Winter Storm
+2010,Oklahoma,Winter Storm
+2010,Iowa,Winter Storm
+2010,West Virginia,Winter Storm
+2010,North Dakota,Winter Storm
+2010,Iowa,Winter Storm
+2010,Nebraska,Winter Storm
+2010,Oklahoma,Winter Storm
+2010,Maryland,Winter Storm
+2010,Virginia,Winter Storm
+2010,New Jersey,Winter Storm
+2010,Arkansas,Severe Storm/Flooding
+2010,North Carolina,Winter Storm
+2010,Oklahoma,Winter Storm
+2010,Arizona,Winter Storm
+2011,New Hampshire,Winter Storm
+2011,New Jersey,Severe Storm/Flooding
+2011,New Mexico,Severe Storm/Flooding
+2011,Nevada,Fire
+2011,Connecticut,Severe Storm/Flooding
+2011,Virginia,Tropical Storm
+2011,Vermont,Severe Storm/Flooding
+2011,Virginia,Other
+2011,Massachusetts,Severe Storm/Flooding
+2011,New Hampshire,Severe Storm/Flooding
+2011,Connecticut,Severe Storm/Flooding
+2011,Louisiana,Tropical Storm
+2011,New Jersey,Tropical Storm
+2011,Maryland,Tropical Storm
+2011,Nevada,Fire
+2011,Delaware,Tropical Storm
+2011,Kansas,Severe Storm/Flooding
+2011,Maryland,Tropical Storm
+2011,New Jersey,Severe Storm/Flooding
+2011,New York,Tropical Storm
+2011,Maine,Tropical Storm
+2011,Pennsylvania,Tropical Storm
+2011,California,Fire
+2011,California,Fire
+2011,Nevada,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Washington,Fire
+2011,Pennsylvania,Tropical Storm
+2011,New York,Tropical Storm
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,California,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,New Hampshire,Tropical Storm
+2011,Virginia,Tropical Storm
+2011,Pennsylvania,Tropical Storm
+2011,Massachusetts,Tropical Storm
+2011,Oklahoma,Fire
+2011,Rhode Island,Tropical Storm
+2011,California,Fire
+2011,Connecticut,Tropical Storm
+2011,Vermont,Tropical Storm
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,North Carolina,Tropical Storm
+2011,New Jersey,Tropical Storm
+2011,New York,Tropical Storm
+2011,Iowa,Severe Storm/Flooding
+2011,Oklahoma,Fire
+2011,Texas,Fire
+2011,Pennsylvania,Tropical Storm
+2011,Montana,Fire
+2011,Vermont,Tropical Storm
+2011,Delaware,Tropical Storm
+2011,Connecticut,Tropical Storm
+2011,Maryland,Tropical Storm
+2011,New Hampshire,Tropical Storm
+2011,New Jersey,Tropical Storm
+2011,Rhode Island,Tropical Storm
+2011,Massachusetts,Tropical Storm
+2011,New York,Tropical Storm
+2011,Virginia,Tropical Storm
+2011,North Carolina,Tropical Storm
+2011,Iowa,Severe Storm/Flooding
+2011,Louisiana,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Nebraska,Severe Storm/Flooding
+2011,Nebraska,Severe Storm/Flooding
+2011,Missouri,Severe Storm/Flooding
+2011,Oklahoma,Fire
+2011,Utah,Severe Storm/Flooding
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Kansas,Severe Storm/Flooding
+2011,Minnesota,Severe Storm/Flooding
+2011,Oklahoma,Fire
+2011,Kentucky,Severe Storm/Flooding
+2011,Wyoming,Severe Storm/Flooding
+2011,New Hampshire,Severe Storm/Flooding
+2011,Tennessee,Severe Storm/Flooding
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Pennsylvania,Severe Storm/Flooding
+2011,Ohio,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Vermont,Severe Storm/Flooding
+2011,Arkansas,Severe Storm/Flooding
+2011,North Carolina,Fire
+2011,Texas,Fire
+2011,Missouri,Severe Storm/Flooding
+2011,New Mexico,Fire
+2011,New Mexico,Fire
+2011,Iowa,Severe Storm/Flooding
+2011,New Mexico,Fire
+2011,Kansas,Severe Storm/Flooding
+2011,Oklahoma,Fire
+2011,Indiana,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Nebraska,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Montana,Severe Storm/Flooding
+2011,Colorado,Fire
+2011,Texas,Fire
+2011,Georgia,Fire
+2011,Vermont,Severe Storm/Flooding
+2011,Massachusetts,Severe Storm/Flooding
+2011,Georgia,Fire
+2011,Arizona,Fire
+2011,New Mexico,Fire
+2011,New Mexico,Fire
+2011,New York,Severe Storm/Flooding
+2011,Illinois,Severe Storm/Flooding
+2011,Minnesota,Severe Storm/Flooding
+2011,Oklahoma,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Arizona,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Oklahoma,Severe Storm/Flooding
+2011,Texas,Fire
+2011,North Dakota,Winter Storm
+2011,Idaho,Severe Storm/Flooding
+2011,Oklahoma,Winter Storm
+2011,South Dakota,Severe Storm/Flooding
+2011,Mississippi,Severe Storm/Flooding
+2011,Minnesota,Severe Storm/Flooding
+2011,North Dakota,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Arizona,Fire
+2011,Tennessee,Severe Storm/Flooding
+2011,Tennessee,Severe Storm/Flooding
+2011,Missouri,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Louisiana,Severe Storm/Flooding
+2011,Iowa,Severe Storm/Flooding
+2011,Kentucky,Severe Storm/Flooding
+2011,Tennessee,Severe Storm/Flooding
+2011,Mississippi,Severe Storm/Flooding
+2011,Arkansas,Severe Storm/Flooding
+2011,Tennessee,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Mississippi,Severe Storm/Flooding
+2011,Georgia,Severe Storm/Flooding
+2011,Texas,Fire
+2011,Alabama,Severe Storm/Flooding
+2011,Florida,Fire
+2011,Texas,Fire
+2011,Alabama,Severe Storm/Flooding
+2011,Oklahoma,Severe Storm/Flooding
+2011,Nebraska,Fire
+2011,Texas,Fire
+2011,North Carolina,Severe Storm/Flooding
+2011,California,Other
+2011,Texas,Fire
+2011,New Mexico,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Oklahoma,Fire
+2011,Texas,Fire
+2011,Oklahoma,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,North Dakota,Severe Storm/Flooding
+2011,Oklahoma,Fire
+2011,Wisconsin,Winter Storm
+2011,Texas,Fire
+2011,Colorado,Fire
+2011,Kansas,Fire
+2011,Oklahoma,Fire
+2011,New Mexico,Fire
+2011,Texas,Fire
+2011,Tennessee,Severe Storm/Flooding
+2011,Oregon,Other
+2011,Georgia,Fire
+2011,Washington,Winter Storm
+2011,Georgia,Fire
+2011,Oklahoma,Fire
+2011,New Mexico,Winter Storm
+2011,Missouri,Winter Storm
+2011,Colorado,Fire
+2011,Illinois,Winter Storm
+2011,Oklahoma,Fire
+2011,Texas,Fire
+2011,Oklahoma,Fire
+2011,Oklahoma,Fire
+2011,Texas,Fire
+2011,Oklahoma,Fire
+2011,New Mexico,Fire
+2011,Massachusetts,Winter Storm
+2011,Connecticut,Winter Storm
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Texas,Fire
+2011,Virginia,Fire
+2011,Virginia,Fire
+2011,New York,Winter Storm
+2011,Oregon,Winter Storm
+2011,Utah,Winter Storm
+2011,New Jersey,Winter Storm
+2011,Missouri,Winter Storm
+2011,Oklahoma,Winter Storm
+2011,Maine,Severe Storm/Flooding
+2011,California,Winter Storm
+2012,Massachusetts,Tropical Storm
+2012,New Hampshire,Tropical Storm
+2012,West Virginia,Tropical Storm
+2012,Virginia,Tropical Storm
+2012,Maryland,Tropical Storm
+2012,Delaware,Tropical Storm
+2012,Utah,Severe Storm/Flooding
+2012,Rhode Island,Tropical Storm
+2012,New Hampshire,Tropical Storm
+2012,New York,Tropical Storm
+2012,New Jersey,Tropical Storm
+2012,Connecticut,Tropical Storm
+2012,West Virginia,Tropical Storm
+2012,Delaware,Tropical Storm
+2012,Rhode Island,Tropical Storm
+2012,Pennsylvania,Tropical Storm
+2012,Virginia,Tropical Storm
+2012,Maryland,Tropical Storm
+2012,Massachusetts,Tropical Storm
+2012,New York,Tropical Storm
+2012,New Jersey,Tropical Storm
+2012,Connecticut,Tropical Storm
+2012,Colorado,Fire
+2012,Florida,Tropical Storm
+2012,Washington,Severe Storm/Flooding
+2012,California,Fire
+2012,Alabama,Tropical Storm
+2012,Washington,Fire
+2012,Idaho,Fire
+2012,Washington,Fire
+2012,Washington,Fire
+2012,Montana,Fire
+2012,Washington,Fire
+2012,Wyoming,Fire
+2012,Washington,Fire
+2012,Washington,Fire
+2012,Washington,Fire
+2012,South Dakota,Fire
+2012,Nebraska,Fire
+2012,Montana,Fire
+2012,Mississippi,Tropical Storm
+2012,Louisiana,Tropical Storm
+2012,Mississippi,Tropical Storm
+2012,Louisiana,Tropical Storm
+2012,New Mexico,Severe Storm/Flooding
+2012,Oklahoma,Fire
+2012,Ohio,Severe Storm/Flooding
+2012,California,Fire
+2012,Idaho,Fire
+2012,Washington,Fire
+2012,California,Fire
+2012,Oklahoma,Fire
+2012,Oklahoma,Fire
+2012,Oklahoma,Fire
+2012,Oklahoma,Fire
+2012,Oklahoma,Fire
+2012,Oklahoma,Fire
+2012,Wisconsin,Severe Storm/Flooding
+2012,Montana,Fire
+2012,Maryland,Severe Storm/Flooding
+2012,Oklahoma,Fire
+2012,Virginia,Severe Storm/Flooding
+2012,West Virginia,Severe Storm/Flooding
+2012,South Dakota,Fire
+2012,New Jersey,Severe Storm/Flooding
+2012,Minnesota,Severe Storm/Flooding
+2012,Wyoming,Fire
+2012,Florida,Tropical Storm
+2012,Utah,Fire
+2012,Wyoming,Fire
+2012,West Virginia,Severe Storm/Flooding
+2012,Ohio,Severe Storm/Flooding
+2012,Wyoming,Fire
+2012,Utah,Fire
+2012,Colorado,Fire
+2012,Utah,Fire
+2012,Montana,Fire
+2012,Montana,Fire
+2012,Montana,Fire
+2012,Utah,Fire
+2012,Colorado,Fire
+2012,Colorado,Fire
+2012,Utah,Fire
+2012,Vermont,Severe Storm/Flooding
+2012,New Mexico,Fire
+2012,New Mexico,Fire
+2012,New Hampshire,Severe Storm/Flooding
+2012,Oklahoma,Severe Storm/Flooding
+2012,Colorado,Fire
+2012,New Mexico,Fire
+2012,New Mexico,Fire
+2012,Kansas,Severe Storm/Flooding
+2012,Nevada,Fire
+2012,Texas,Fire
+2012,Colorado,Fire
+2012,West Virginia,Severe Storm/Flooding
+2012,West Virginia,Severe Storm/Flooding
+2012,Tennessee,Severe Storm/Flooding
+2012,Indiana,Severe Storm/Flooding
+2012,Kentucky,Severe Storm/Flooding
+2012,Washington,Winter Storm
+2012,Oregon,Winter Storm
+2012,Alabama,Severe Storm/Flooding
+2012,Utah,Severe Storm/Flooding
+2012,Nevada,Fire
+2012,Massachusetts,Winter Storm
+2013,Texas,Severe Storm/Flooding
+2013,California,Fire
+2013,Illinois,Severe Storm/Flooding
+2013,Nebraska,Winter Storm
+2013,South Dakota,Winter Storm
+2013,North Dakota,Winter Storm
+2013,New Mexico,Severe Storm/Flooding
+2013,North Carolina,Severe Storm/Flooding
+2013,Kansas,Severe Storm/Flooding
+2013,Pennsylvania,Severe Storm/Flooding
+2013,New Mexico,Severe Storm/Flooding
+2013,North Carolina,Severe Storm/Flooding
+2013,Colorado,Severe Storm/Flooding
+2013,Colorado,Severe Storm/Flooding
+2013,California,Fire
+2013,Missouri,Severe Storm/Flooding
+2013,Arkansas,Severe Storm/Flooding
+2013,California,Fire
+2013,Washington,Fire
+2013,Montana,Fire
+2013,Oregon,Fire
+2013,Idaho,Fire
+2013,Utah,Fire
+2013,Idaho,Fire
+2013,Washington,Fire
+2013,Wisconsin,Severe Storm/Flooding
+2013,California,Fire
+2013,California,Fire
+2013,Vermont,Severe Storm/Flooding
+2013,Oregon,Fire
+2013,Florida,Severe Storm/Flooding
+2013,South Dakota,Severe Storm/Flooding
+2013,Texas,Other
+2013,New Hampshire,Severe Storm/Flooding
+2013,Iowa,Severe Storm/Flooding
+2013,Washington,Fire
+2013,Oregon,Fire
+2013,Colorado,Fire
+2013,Colorado,Fire
+2013,West Virginia,Severe Storm/Flooding
+2013,Minnesota,Severe Storm/Flooding
+2013,Oregon,Fire
+2013,Montana,Fire
+2013,Missouri,Severe Storm/Flooding
+2013,North Dakota,Severe Storm/Flooding
+2013,New York,Severe Storm/Flooding
+2013,Montana,Severe Storm/Flooding
+2013,Nevada,Fire
+2013,Arizona,Fire
+2013,Iowa,Severe Storm/Flooding
+2013,Arizona,Fire
+2013,South Dakota,Severe Storm/Flooding
+2013,Arkansas,Severe Storm/Flooding
+2013,Colorado,Fire
+2013,Colorado,Fire
+2013,Arizona,Fire
+2013,Michigan,Severe Storm/Flooding
+2013,Vermont,Severe Storm/Flooding
+2013,Colorado,Fire
+2013,Colorado,Fire
+2013,New Mexico,Fire
+2013,California,Fire
+2013,Iowa,Severe Storm/Flooding
+2013,North Dakota,Severe Storm/Flooding
+2013,Oklahoma,Severe Storm/Flooding
+2013,South Dakota,Winter Storm
+2013,Illinois,Severe Storm/Flooding
+2013,Iowa,Winter Storm
+2013,Minnesota,Winter Storm
+2013,California,Fire
+2013,California,Fire
+2013,North Dakota,Severe Storm/Flooding
+2013,Kansas,Winter Storm
+2013,New York,Winter Storm
+2013,Texas,Other
+2013,Massachusetts,Winter Storm
+2013,Massachusetts,Other
+2013,Oklahoma,Winter Storm
+2013,Maine,Winter Storm
+2013,Rhode Island,Winter Storm
+2013,Connecticut,Winter Storm
+2013,New Hampshire,Winter Storm
+2013,Louisiana,Severe Storm/Flooding
+2013,Mississippi,Severe Storm/Flooding
+2013,Connecticut,Winter Storm
+2013,Arkansas,Winter Storm
+2013,Pennsylvania,Tropical Storm
+2013,Ohio,Tropical Storm
+2014,New York,Winter Storm
+2014,Arizona,Fire
+2014,Arizona,Severe Storm/Flooding
+2014,Nevada,Severe Storm/Flooding
+2014,Missouri,Severe Storm/Flooding
+2014,New Mexico,Severe Storm/Flooding
+2014,Montana,Severe Storm/Flooding
+2014,California,Fire
+2014,New Mexico,Severe Storm/Flooding
+2014,Kentucky,Severe Storm/Flooding
+2014,Michigan,Severe Storm/Flooding
+2014,California,Fire
+2014,Oregon,Fire
+2014,California,Fire
+2014,California,Fire
+2014,California,Other
+2014,California,Fire
+2014,California,Fire
+2014,California,Fire
+2014,California,Fire
+2014,North Dakota,Severe Storm/Flooding
+2014,Tennessee,Severe Storm/Flooding
+2014,Washington,Fire
+2014,Oregon,Fire
+2014,Washington,Fire
+2014,Iowa,Severe Storm/Flooding
+2014,Washington,Fire
+2014,California,Fire
+2014,California,Fire
+2014,California,Fire
+2014,California,Fire
+2014,Oregon,Fire
+2014,Nebraska,Severe Storm/Flooding
+2014,South Dakota,Severe Storm/Flooding
+2014,Nebraska,Severe Storm/Flooding
+2014,Iowa,Severe Storm/Flooding
+2014,Washington,Fire
+2014,Utah,Fire
+2014,Minnesota,Severe Storm/Flooding
+2014,Washington,Fire
+2014,Washington,Fire
+2014,Washington,Fire
+2014,Washington,Fire
+2014,Oregon,Fire
+2014,Iowa,Severe Storm/Flooding
+2014,Washington,Fire
+2014,Washington,Fire
+2014,New York,Severe Storm/Flooding
+2014,California,Fire
+2014,Nebraska,Severe Storm/Flooding
+2014,Vermont,Severe Storm/Flooding
+2014,Oregon,Fire
+2014,California,Fire
+2014,California,Fire
+2014,Texas,Fire
+2014,Florida,Severe Storm/Flooding
+2014,Oklahoma,Fire
+2014,Alabama,Severe Storm/Flooding
+2014,Mississippi,Severe Storm/Flooding
+2014,Arkansas,Severe Storm/Flooding
+2014,Indiana,Winter Storm
+2014,Montana,Winter Storm
+2014,Tennessee,Winter Storm
+2014,Maryland,Winter Storm
+2014,Oregon,Winter Storm
+2014,Washington,Severe Storm/Flooding
+2014,North Carolina,Winter Storm
+2014,Washington,Severe Storm/Flooding
+2014,South Carolina,Winter Storm
+2014,Georgia,Winter Storm
+2014,South Carolina,Winter Storm
+2014,Georgia,Winter Storm
+2014,Pennsylvania,Winter Storm
+2014,Oklahoma,Winter Storm
+2014,Vermont,Winter Storm
+2014,California,Fire
+2014,West Virginia,Other
+2014,Arkansas,Winter Storm
+2015,Oklahoma,Winter Storm
+2015,Idaho,Severe Storm/Flooding
+2015,Texas,Severe Storm/Flooding
+2015,Oklahoma,Fire
+2015,Washington,Fire
+2015,Washington,Other
+2015,Texas,Fire
+2015,Wyoming,Fire
+2015,South Carolina,Severe Storm/Flooding
+2015,South Carolina,Severe Storm/Flooding
+2015,California,Fire
+2015,Oregon,Fire
+2015,Washington,Fire
+2015,California,Fire
+2015,California,Fire
+2015,Idaho,Fire
+2015,Washington,Fire
+2015,Washington,Fire
+2015,Washington,Fire
+2015,Oregon,Fire
+2015,Washington,Fire
+2015,Idaho,Fire
+2015,Washington,Fire
+2015,Washington,Fire
+2015,Oregon,Fire
+2015,Washington,Fire
+2015,Washington,Fire
+2015,Idaho,Fire
+2015,Washington,Fire
+2015,Oregon,Fire
+2015,Kentucky,Severe Storm/Flooding
+2015,Oregon,Fire
+2015,Arizona,Fire
+2015,Missouri,Severe Storm/Flooding
+2015,West Virginia,Severe Storm/Flooding
+2015,Washington,Fire
+2015,California,Fire
+2015,Iowa,Severe Storm/Flooding
+2015,Oregon,Fire
+2015,South Dakota,Severe Storm/Flooding
+2015,Vermont,Severe Storm/Flooding
+2015,California,Fire
+2015,New Jersey,Severe Storm/Flooding
+2015,Washington,Fire
+2015,Kansas,Severe Storm/Flooding
+2015,California,Fire
+2015,Colorado,Severe Storm/Flooding
+2015,Louisiana,Severe Storm/Flooding
+2015,Wyoming,Severe Storm/Flooding
+2015,Idaho,Fire
+2015,Washington,Fire
+2015,Arkansas,Severe Storm/Flooding
+2015,Nebraska,Severe Storm/Flooding
+2015,Arizona,Fire
+2015,Texas,Severe Storm/Flooding
+2015,Oklahoma,Severe Storm/Flooding
+2015,West Virginia,Severe Storm/Flooding
+2015,West Virginia,Severe Storm/Flooding
+2015,West Virginia,Severe Storm/Flooding
+2015,Kentucky,Winter Storm
+2015,Kentucky,Severe Storm/Flooding
+2015,Kentucky,Winter Storm
+2015,Georgia,Winter Storm
+2015,Massachusetts,Winter Storm
+2015,Connecticut,Winter Storm
+2015,Rhode Island,Winter Storm
+2015,Tennessee,Winter Storm
+2015,West Virginia,Winter Storm
+2015,New Hampshire,Winter Storm
+2015,Maine,Winter Storm
+2015,Vermont,Winter Storm
+2015,Mississippi,Severe Storm/Flooding
+2016,Tennessee,Fire
+2016,Pennsylvania,Severe Storm/Flooding
+2016,Tennessee,Fire
+2016,Kentucky,Fire
+2016,Tennessee,Fire
+2016,North Carolina,Fire
+2016,Georgia,Fire
+2016,South Carolina,Fire
+2016,North Carolina,Fire
+2016,Tennessee,Fire
+2016,Tennessee,Fire
+2016,Kentucky,Fire
+2016,Virginia,Tropical Storm
+2016,Minnesota,Severe Storm/Flooding
+2016,Iowa,Severe Storm/Flooding
+2016,Wisconsin,Severe Storm/Flooding
+2016,Kansas,Severe Storm/Flooding
+2016,Colorado,Fire
+2016,Nevada,Fire
+2016,South Carolina,Tropical Storm
+2016,North Carolina,Tropical Storm
+2016,Georgia,Tropical Storm
+2016,Florida,Tropical Storm
+2016,North Carolina,Tropical Storm
+2016,Georgia,Tropical Storm
+2016,South Carolina,Tropical Storm
+2016,Florida,Tropical Storm
+2016,Colorado,Fire
+2016,Nevada,Fire
+2016,Iowa,Severe Storm/Flooding
+2016,Florida,Tropical Storm
+2016,Maryland,Severe Storm/Flooding
+2016,Oregon,Fire
+2016,Washington,Fire
+2016,Kentucky,Severe Storm/Flooding
+2016,Idaho,Fire
+2016,California,Fire
+2016,Washington,Fire
+2016,Washington,Fire
+2016,California,Fire
+2016,California,Fire
+2016,California,Fire
+2016,Louisiana,Severe Storm/Flooding
+2016,Wisconsin,Severe Storm/Flooding
+2016,California,Fire
+2016,Montana,Severe Storm/Flooding
+2016,Montana,Fire
+2016,Washington,Fire
+2016,Nevada,Fire
+2016,California,Fire
+2016,Wyoming,Fire
+2016,Nevada,Fire
+2016,California,Fire
+2016,Wyoming,Fire
+2016,California,Fire
+2016,Oklahoma,Severe Storm/Flooding
+2016,New Mexico,Fire
+2016,Colorado,Fire
+2016,California,Fire
+2016,West Virginia,Severe Storm/Flooding
+2016,California,Fire
+2016,Utah,Fire
+2016,California,Fire
+2016,California,Fire
+2016,New Mexico,Fire
+2016,Texas,Severe Storm/Flooding
+2016,Arizona,Fire
+2016,California,Fire
+2016,Montana,Winter Storm
+2016,Arkansas,Severe Storm/Flooding
+2016,Texas,Severe Storm/Flooding
+2016,New Hampshire,Fire
+2016,Oklahoma,Fire
+2016,Kansas,Fire
+2016,Mississippi,Severe Storm/Flooding
+2016,Kansas,Fire
+2016,Pennsylvania,Winter Storm
+2016,Texas,Severe Storm/Flooding
+2016,Delaware,Winter Storm
+2016,New Jersey,Winter Storm
+2016,Louisiana,Severe Storm/Flooding
+2016,Virginia,Winter Storm
+2016,Maryland,Winter Storm
+2016,Georgia,Severe Storm/Flooding
+2016,Oklahoma,Fire
+2016,Oregon,Winter Storm
+2016,Oklahoma,Winter Storm
+2016,Texas,Winter Storm
+2016,Arkansas,Severe Storm/Flooding
+2016,Louisiana,Severe Storm/Flooding
+2016,Washington,Winter Storm
+2016,Idaho,Winter Storm
+2016,Oklahoma,Fire
+2016,Alabama,Severe Storm/Flooding
+2016,Missouri,Severe Storm/Flooding
+2016,Michigan,Other
+2016,Washington,Severe Storm/Flooding
+2016,Mississippi,Severe Storm/Flooding
+2016,Missouri,Severe Storm/Flooding
